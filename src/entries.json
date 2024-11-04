@@ -1,3450 +1,2384 @@
 [
   {
-   "Roll No.": 2302,
-   "Students Name": "AANYA MISHRA",
-   "Whatsapp No.": 9140346301,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550008",
+      "NAME": "Ishani Walia ",
+      "CLASS": "LKG",
+      "MOB": "9711582617"
   },
   {
-   "Roll No.": 2161,
-   "Students Name": "ANIKA SINGH",
-   "Whatsapp No.": 7783866959,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550012",
+      "NAME": "Pragyanshu Pratap",
+      "CLASS": "LKG",
+      "MOB": "9554510489"
   },
   {
-   "Roll No.": 8339,
-   "Students Name": "ANSHI KUSHWAHA",
-   "Whatsapp No.": 8858254969,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550015",
+      "NAME": "Trishika Shandilya",
+      "CLASS": "LKG",
+      "MOB": "7985660750"
   },
   {
-   "Roll No.": 8590,
-   "Students Name": "AVIRAL SINGH",
-   "Whatsapp No.": 6393704690,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559002",
+      "NAME": "Aaradhya Tiwari",
+      "CLASS": "UKG",
+      "MOB": "9120204444"
   },
   {
-   "Roll No.": 1206,
-   "Students Name": "DARSHIKA SAROJ",
-   "Whatsapp No.": 8114144233,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559007",
+      "NAME": "Ayaansh Shinoj",
+      "CLASS": "UKG",
+      "MOB": "7007443838"
   },
   {
-   "Roll No.": 1195,
-   "Students Name": "M.D.ANZAR",
-   "Whatsapp No.": 8081247713,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559008",
+      "NAME": "Darsh Upadhyay",
+      "CLASS": "UKG",
+      "MOB": "7704054507"
   },
   {
-   "Roll No.": 1347,
-   "Students Name": "SAKSHAM RAJPUT",
-   "Whatsapp No.": 9935771127,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559010",
+      "NAME": "Nitya Raghuvanshi ",
+      "CLASS": "UKG",
+      "MOB": "9909942767"
   },
   {
-   "Roll No.": 2167,
-   "Students Name": "SANVI",
-   "Whatsapp No.": 7275995640,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559012",
+      "NAME": "Shivansh Gupta",
+      "CLASS": "UKG",
+      "MOB": "9140736813"
   },
   {
-   "Roll No.": 1198,
-   "Students Name": "SHREYASH KUSHWAHA",
-   "Whatsapp No.": 8127722132,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551002",
+      "NAME": "Aarav. P",
+      "CLASS": "1",
+      "MOB": "7907147236"
   },
   {
-   "Roll No.": 4063,
-   "Students Name": "SURYAVANSH",
-   "Whatsapp No.": 9651081150,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551008",
+      "NAME": "Anahita Cutting",
+      "CLASS": "1",
+      "MOB": "9889645765"
   },
   {
-   "Roll No.": 8788,
-   "Students Name": "UTKARSH MAURYA",
-   "Whatsapp No.": 9918677174,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551014",
+      "NAME": "Avyaan Jaiswal",
+      "CLASS": "1",
+      "MOB": "8081729060"
   },
   {
-   "Roll No.": 7200,
-   "Students Name": "VIHAAN GUPTA",
-   "Whatsapp No.": 9795830990,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551015",
+      "NAME": "Ayaat Shah ",
+      "CLASS": "1",
+      "MOB": "8303087389"
   },
   {
-   "Roll No.": 8116,
-   "Students Name": "ABHINAV GUPTA",
-   "Whatsapp No.": 9118419468,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551016",
+      "NAME": "Bhavya Kesarwani",
+      "CLASS": "1",
+      "MOB": "9889241477"
   },
   {
-   "Roll No.": 8861,
-   "Students Name": "ALINA FAROOQUI",
-   "Whatsapp No.": 9455769633,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551024",
+      "NAME": "Milit Srivastava ",
+      "CLASS": "1",
+      "MOB": "8874119384"
   },
   {
-   "Roll No.": 1220,
-   "Students Name": "AMISHI TRIPATHI",
-   "Whatsapp No.": 6388607184,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551035",
+      "NAME": "Shikhar Srivastava",
+      "CLASS": "1",
+      "MOB": "9454969947"
   },
   {
-   "Roll No.": 6089,
-   "Students Name": "ASHRAV TRIPATHI",
-   "Whatsapp No.": 7080127722,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551037",
+      "NAME": "Shriansh Yadav",
+      "CLASS": "1",
+      "MOB": "7905920188"
   },
   {
-   "Roll No.": 8876,
-   "Students Name": "AYUSHI YADAV",
-   "Whatsapp No.": 9136666334,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551041",
+      "NAME": "Umme Habiba",
+      "CLASS": "1",
+      "MOB": "9621718926"
   },
   {
-   "Roll No.": 2125,
-   "Students Name": "BHAVYA SINGH",
-   "Whatsapp No.": 9794911255,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552005",
+      "NAME": "Ananya Singh",
+      "CLASS": "2",
+      "MOB": "7054281777"
   },
   {
-   "Roll No.": 8126,
-   "Students Name": "DRISHTI PAL",
-   "Whatsapp No.": 8175837570,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552007",
+      "NAME": "Archisha Tripathi",
+      "CLASS": "2",
+      "MOB": "7860455555"
   },
   {
-   "Roll No.": 5741,
-   "Students Name": "FATIMA RIZVI",
-   "Whatsapp No.": 9305694334,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552011",
+      "NAME": "Ayat Firdaus",
+      "CLASS": "2",
+      "MOB": "6393915224"
   },
   {
-   "Roll No.": 8129,
-   "Students Name": "ISHANT SINGH",
-   "Whatsapp No.": 7705853989,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552014",
+      "NAME": "Dira Yadav",
+      "CLASS": "2",
+      "MOB": "7905767125"
   },
   {
-   "Roll No.": 8153,
-   "Students Name": "KAMALRAJ",
-   "Whatsapp No.": 9936275718,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552015",
+      "NAME": "Ditya Hajela",
+      "CLASS": "2",
+      "MOB": "8840430466"
   },
   {
-   "Roll No.": 2168,
-   "Students Name": "KAVYA YADAV",
-   "Whatsapp No.": 9451961192,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552019",
+      "NAME": "Krishna Shankar Srivastava",
+      "CLASS": "2",
+      "MOB": "9554074731"
   },
   {
-   "Roll No.": 8859,
-   "Students Name": "KRISHBH RAJ",
-   "Whatsapp No.": 9473712014,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552020",
+      "NAME": "Mahira Alam",
+      "CLASS": "2",
+      "MOB": "9682006026"
   },
   {
-   "Roll No.": 7210,
-   "Students Name": "MOHAMMAD MUSTAQUEEM",
-   "Whatsapp No.": 9670758127,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552022",
+      "NAME": "Mohd. Harish Ajaz",
+      "CLASS": "2",
+      "MOB": "6392524940"
   },
   {
-   "Roll No.": 5727,
-   "Students Name": "MOHD ASAD ",
-   "Whatsapp No.": 7355134118,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552026",
+      "NAME": "Sanskar Srivastava",
+      "CLASS": "2",
+      "MOB": "6394364076"
   },
   {
-   "Roll No.": 6097,
-   "Students Name": "RAJVI GUPTA",
-   "Whatsapp No.": 8874048482,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552027",
+      "NAME": "Sarah Singh",
+      "CLASS": "2",
+      "MOB": "7524056199"
   },
   {
-   "Roll No.": 8716,
-   "Students Name": "SARTHAK SINGH",
-   "Whatsapp No.": 9651806205,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552029",
+      "NAME": "Shanvi Singh ",
+      "CLASS": "2",
+      "MOB": "9415649899"
   },
   {
-   "Roll No.": 6095,
-   "Students Name": "SHIVANSH SRIVASTAVA",
-   "Whatsapp No.": 9140168691,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553002",
+      "NAME": "Aarav Yadav",
+      "CLASS": "3",
+      "MOB": "7376157899"
   },
   {
-   "Roll No.": 2528,
-   "Students Name": "SHIVAYE JAISWAL",
-   "Whatsapp No.": 8299443652,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553004",
+      "NAME": "Akhand Chaudhary",
+      "CLASS": "3",
+      "MOB": "7394062787"
   },
   {
-   "Roll No.": 1149,
-   "Students Name": "SHIVPRABHA BHASKAR",
-   "Whatsapp No.": 9307093636,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553006",
+      "NAME": "Akshita Sinha",
+      "CLASS": "3",
+      "MOB": "7007068375"
   },
   {
-   "Roll No.": 4109,
-   "Students Name": "SRISHTI PATEL",
-   "Whatsapp No.": 9170179035,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553017",
+      "NAME": "Lavanya Srivastava",
+      "CLASS": "3",
+      "MOB": "9335131896"
   },
   {
-   "Roll No.": 8165,
-   "Students Name": "SWARA SHUKLA",
-   "Whatsapp No.": 9628991973,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553018",
+      "NAME": "Nabeena Parveen",
+      "CLASS": "3",
+      "MOB": "8318939129"
   },
   {
-   "Roll No.": 1007,
-   "Students Name": "TEJASVI KUSHWAHA",
-   "Whatsapp No.": 9369156534,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553022",
+      "NAME": "Rudrisha Singh",
+      "CLASS": "3",
+      "MOB": "9336005723"
   },
   {
-   "Roll No.": 8851,
-   "Students Name": "VEDANT SINGH",
-   "Whatsapp No.": 8840998048,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553025",
+      "NAME": "Saras Kumar Sudhakar",
+      "CLASS": "3",
+      "MOB": "9473851811"
   },
   {
-   "Roll No.": 6111,
-   "Students Name": "VIHAAN OM",
-   "Whatsapp No.": 9451106876,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553030",
+      "NAME": "Veer Pratap Thakur",
+      "CLASS": "3",
+      "MOB": "9131506209"
   },
   {
-   "Roll No.": 1207,
-   "Students Name": "VIRAT SINGH CHAUHAN",
-   "Whatsapp No.": 8858786171,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554004",
+      "NAME": "Agrima Maurya ",
+      "CLASS": "4",
+      "MOB": "9889754557"
   },
   {
-   "Roll No.": 10229,
-   "Students Name": "ADITYA SONI",
-   "Whatsapp No.": 9616875506,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554014",
+      "NAME": "Astha Shukla",
+      "CLASS": "4",
+      "MOB": "8707613944"
   },
   {
-   "Roll No.": 2140,
-   "Students Name": "AGRIMA MAURYA",
-   "Whatsapp No.": 9889754557,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554015",
+      "NAME": "Atharv Bhushan Tiwari",
+      "CLASS": "4",
+      "MOB": "9450597679"
   },
   {
-   "Roll No.": 10242,
-   "Students Name": "ANAM AFZAL",
-   "Whatsapp No.": 9936925688,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554017",
+      "NAME": "Atharv Singh Chauhan ",
+      "CLASS": "4",
+      "MOB": "6391985851"
   },
   {
-   "Roll No.": 10278,
-   "Students Name": "ANANYA YADAV",
-   "Whatsapp No.": 9839215499,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554018",
+      "NAME": "Aviraj Singh",
+      "CLASS": "4",
+      "MOB": "6387376616"
   },
   {
-   "Roll No.": 10209,
-   "Students Name": "ANGEL KUSHWAHA",
-   "Whatsapp No.": 7355461882,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554020",
+      "NAME": "Fatima Zehra",
+      "CLASS": "4",
+      "MOB": "8756721889"
   },
   {
-   "Roll No.": 2171,
-   "Students Name": "ARJUN SINGH",
-   "Whatsapp No.": 9119637490,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554022",
+      "NAME": "Hasham Abbas",
+      "CLASS": "4",
+      "MOB": "8887970107"
   },
   {
-   "Roll No.": 10324,
-   "Students Name": "ASHMIT SINGH",
-   "Whatsapp No.": 9839768752,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554023",
+      "NAME": "Jahanvi",
+      "CLASS": "4",
+      "MOB": "9335972591"
   },
   {
-   "Roll No.": 2195,
-   "Students Name": "ATHARV MISHRA",
-   "Whatsapp No.": 7985476860,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554030",
+      "NAME": "Rudra Pratap Singh",
+      "CLASS": "4",
+      "MOB": "7906296399"
   },
   {
-   "Roll No.": 2200,
-   "Students Name": "AYAANSH JAISWAL",
-   "Whatsapp No.": 9415443994,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554036",
+      "NAME": "Siddhi Verma ",
+      "CLASS": "4",
+      "MOB": "8354961269"
   },
   {
-   "Roll No.": 10283,
-   "Students Name": "CHIRAG GAUR",
-   "Whatsapp No.": 9026723005,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554040",
+      "NAME": "Yaseen Fatima",
+      "CLASS": "4",
+      "MOB": "7235814155"
   },
   {
-   "Roll No.": 2277,
-   "Students Name": "DEVANSH KUMAR SRIVASTAVA",
-   "Whatsapp No.": 7376215078,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554041",
+      "NAME": "Zain Siddiqui",
+      "CLASS": "4",
+      "MOB": "7007507477"
   },
   {
-   "Roll No.": 10328,
-   "Students Name": "DHAIRYA SINGH KENWAR",
-   "Whatsapp No.": 7080999231,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555008",
+      "NAME": "Anam Ikram",
+      "CLASS": "5",
+      "MOB": "9839978677"
   },
   {
-   "Roll No.": 10361,
-   "Students Name": "PARTH SINGH",
-   "Whatsapp No.": 9335252265,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555009",
+      "NAME": "Angel ",
+      "CLASS": "5",
+      "MOB": "8400532099"
   },
   {
-   "Roll No.": 6096,
-   "Students Name": "PRASHASTI AGRAWAL",
-   "Whatsapp No.": 8400321052,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555014",
+      "NAME": "Arinam Yadav",
+      "CLASS": "5",
+      "MOB": "6394139158"
   },
   {
-   "Roll No.": 2178,
-   "Students Name": "SAANCHI SRIVASTAVA",
-   "Whatsapp No.": 8887732224,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555016",
+      "NAME": "Atharva Krishna ",
+      "CLASS": "5",
+      "MOB": "9839136101"
   },
   {
-   "Roll No.": 10342,
-   "Students Name": "SAUMYA SINGH",
-   "Whatsapp No.": 8707400145,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555018",
+      "NAME": "Dakshita Raizada",
+      "CLASS": "5",
+      "MOB": "9005827217"
   },
   {
-   "Roll No.": 2783,
-   "Students Name": "SHREEYAM DWIVEDI",
-   "Whatsapp No.": 8887737634,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555019",
+      "NAME": "Ishika Sinha",
+      "CLASS": "5",
+      "MOB": "9005838788"
   },
   {
-   "Roll No.": 7193,
-   "Students Name": "SIDDHI VERMA",
-   "Whatsapp No.": 8354961269,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555024",
+      "NAME": "Mohd Wehzad Yusuf",
+      "CLASS": "5",
+      "MOB": "6306236420"
   },
   {
-   "Roll No.": 2785,
-   "Students Name": "AAKARSHI AGRAHARI",
-   "Whatsapp No.": 7376894489,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555026",
+      "NAME": "Nimishika Srivastava",
+      "CLASS": "5",
+      "MOB": "9369130699"
   },
   {
-   "Roll No.": 2082,
-   "Students Name": "ABHINAB SAHOO",
-   "Whatsapp No.": 7209172905,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555037",
+      "NAME": "Shaurya Pratap Thakur",
+      "CLASS": "5",
+      "MOB": "9771402460"
   },
   {
-   "Roll No.": 8182,
-   "Students Name": "ABHINANDAN SINGH",
-   "Whatsapp No.": 9984022976,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556002",
+      "NAME": "Aarush Kesarwani",
+      "CLASS": "6",
+      "MOB": "9889241477"
   },
   {
-   "Roll No.": 2057,
-   "Students Name": "ARADHYA TRIPATHI",
-   "Whatsapp No.": 9450608979,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556003",
+      "NAME": "Aayan Pathak ",
+      "CLASS": "6",
+      "MOB": "7007307138"
   },
   {
-   "Roll No.": 2018,
-   "Students Name": "ATHARV PRATAP SINGH",
-   "Whatsapp No.": 7783866959,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556005",
+      "NAME": "Abhinav Kant Shukla",
+      "CLASS": "6",
+      "MOB": "9415680071"
   },
   {
-   "Roll No.": 7199,
-   "Students Name": "KSHITIZ SINGH",
-   "Whatsapp No.": 3455686835,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556006",
+      "NAME": "Advik Singh",
+      "CLASS": "6",
+      "MOB": "8756270217"
   },
   {
-   "Roll No.": 5404,
-   "Students Name": "LAIBA ASIF ANSARI",
-   "Whatsapp No.": 9838589013,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556008",
+      "NAME": "Akshita Singh",
+      "CLASS": "6",
+      "MOB": "8004905380"
   },
   {
-   "Roll No.": 2301,
-   "Students Name": "OM PANDEY",
-   "Whatsapp No.": 7398508528,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556009",
+      "NAME": "Ananya ",
+      "CLASS": "6",
+      "MOB": "8630129176"
   },
   {
-   "Roll No.": 8173,
-   "Students Name": "SHAURYA KESARWANI",
-   "Whatsapp No.": 7525810810,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556013",
+      "NAME": "Anuj Kushwaha",
+      "CLASS": "6",
+      "MOB": "7753866039"
   },
   {
-   "Roll No.": 2219,
-   "Students Name": "SHAWAIZ RAZA KHAN",
-   "Whatsapp No.": 9026424772,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556014",
+      "NAME": "Aradhya Bhatt",
+      "CLASS": "6",
+      "MOB": "9335325389"
   },
   {
-   "Roll No.": 10125,
-   "Students Name": "SHIVANSH SWARNAKAR",
-   "Whatsapp No.": 9454824432,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556017",
+      "NAME": "Arav Pandey",
+      "CLASS": "6",
+      "MOB": "7238024029"
   },
   {
-   "Roll No.": 7125,
-   "Students Name": "SHRIVATS AGARWAL",
-   "Whatsapp No.": 9336841792,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556022",
+      "NAME": "Ashwat Tiwari",
+      "CLASS": "6",
+      "MOB": "9415765642"
   },
   {
-   "Roll No.": 8176,
-   "Students Name": "SIDDHANT JAISWAL ",
-   "Whatsapp No.": 8382043355,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556027",
+      "NAME": "Avika Mishra",
+      "CLASS": "6",
+      "MOB": "9935960985"
   },
   {
-   "Roll No.": 8632,
-   "Students Name": "VIDUP SINGH",
-   "Whatsapp No.": 8707407714,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556028",
+      "NAME": "Bridhiksha Chitransh",
+      "CLASS": "6",
+      "MOB": "8467961065"
   },
   {
-   "Roll No.": 10098,
-   "Students Name": "ANISHA",
-   "Whatsapp No.": 8960300729,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556030",
+      "NAME": "Dipansh Sudarshan ",
+      "CLASS": "6",
+      "MOB": "9871379631"
   },
   {
-   "Roll No.": 10080,
-   "Students Name": "ANUBHAVI PATEL",
-   "Whatsapp No.": 8738967425,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556032",
+      "NAME": "Eeshan Dubey",
+      "CLASS": "6",
+      "MOB": "9695222731"
   },
   {
-   "Roll No.": 10116,
-   "Students Name": "ARADHYA",
-   "Whatsapp No.": 8887543737,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556034",
+      "NAME": "Gyaneshwar Gupta ",
+      "CLASS": "6",
+      "MOB": "7269009223"
   },
   {
-   "Roll No.": 10356,
-   "Students Name": "ASTHA SINGH",
-   "Whatsapp No.": 8115504801,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556035",
+      "NAME": "Harshita Gautam",
+      "CLASS": "6",
+      "MOB": "9554422020"
   },
   {
-   "Roll No.": 10050,
-   "Students Name": "HALEEMA FATMA",
-   "Whatsapp No.": 9918964430,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556036",
+      "NAME": "Ichchha Thakur",
+      "CLASS": "6",
+      "MOB": ""
   },
   {
-   "Roll No.": 5596,
-   "Students Name": "MASOOMA ZAHRA",
-   "Whatsapp No.": 9554587205,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556038",
+      "NAME": "Jatin Srivastava",
+      "CLASS": "6",
+      "MOB": ""
   },
   {
-   "Roll No.": 2064,
-   "Students Name": "PALAK AGRAWAL",
-   "Whatsapp No.": 9936028000,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556039",
+      "NAME": "Kavika Kayasth",
+      "CLASS": "6",
+      "MOB": "8299775124"
   },
   {
-   "Roll No.": 2166,
-   "Students Name": "SAKSHAM MAURYA ",
-   "Whatsapp No.": 7275995640,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556045",
+      "NAME": "Manya Rastogi",
+      "CLASS": "6",
+      "MOB": "9956424949"
   },
   {
-   "Roll No.": 2790,
-   "Students Name": "SANVI SINHA ",
-   "Whatsapp No.": 9721416181,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556051",
+      "NAME": "Purnima Singh",
+      "CLASS": "6",
+      "MOB": "9935317495"
   },
   {
-   "Roll No.": 2795,
-   "Students Name": "SATVIK PANDEY",
-   "Whatsapp No.": 8115209967,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556052",
+      "NAME": "Ritisha Tripathi",
+      "CLASS": "6",
+      "MOB": "7860455555"
   },
   {
-   "Roll No.": 2787,
-   "Students Name": "SHAMIT MEHROTRA ",
-   "Whatsapp No.": 8052598555,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556054",
+      "NAME": "Safwan Ahmad",
+      "CLASS": "6",
+      "MOB": "9721807767"
   },
   {
-   "Roll No.": 2848,
-   "Students Name": "SHIVRAJ PRAJAPTI",
-   "Whatsapp No.": 8953382028,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556053",
+      "NAME": "Saiaansh Hasija ",
+      "CLASS": "6",
+      "MOB": "8953806050"
   },
   {
-   "Roll No.": 2778,
-   "Students Name": "TANUSH TRIPATHI",
-   "Whatsapp No.": 9453275307,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556058",
+      "NAME": "Shaury Singh",
+      "CLASS": "6",
+      "MOB": "9554533128"
   },
   {
-   "Roll No.": 2796,
-   "Students Name": "TRISHAAR YUVRAJ SONKAR",
-   "Whatsapp No.": 9335143095,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556059",
+      "NAME": "Shivansh Singh",
+      "CLASS": "6",
+      "MOB": "7607902813"
   },
   {
-   "Roll No.": 2355,
-   "Students Name": "VIVEK KUMAR",
-   "Whatsapp No.": 7860706595,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556061",
+      "NAME": "Shuprabhat Dubey",
+      "CLASS": "6",
+      "MOB": "8120226555"
   },
   {
-   "Roll No.": 2788,
-   "Students Name": "YAGYA SRIVASTAVA",
-   "Whatsapp No.": 8840401566,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556062",
+      "NAME": "Soma Upadhyay",
+      "CLASS": "6",
+      "MOB": "7897284926"
   },
   {
-   "Roll No.": 6101,
-   "Students Name": "YASHARTH SINGH",
-   "Whatsapp No.": 6393565255,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556064",
+      "NAME": "Tanya Shukla",
+      "CLASS": "6",
+      "MOB": "7007637314"
   },
   {
-   "Roll No.": 5407,
-   "Students Name": "ZAINAB ANSARI",
-   "Whatsapp No.": 8542830546,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556069",
+      "NAME": "Vaibhav Singh",
+      "CLASS": "6",
+      "MOB": "8081790435"
   },
   {
-   "Roll No.": 1008,
-   "Students Name": "AKSHIT KUMAR",
-   "Whatsapp No.": 9757022042,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556071",
+      "NAME": "Veera Mishra ",
+      "CLASS": "6",
+      "MOB": "9794841492"
   },
   {
-   "Roll No.": 10638,
-   "Students Name": "ANSHUMAN DWIVEDI",
-   "Whatsapp No.": 8726453109,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556072",
+      "NAME": "Virat Singh",
+      "CLASS": "6",
+      "MOB": "9532881701"
   },
   {
-   "Roll No.": 2207,
-   "Students Name": "ARJOO TIWARI",
-   "Whatsapp No.": 7233924869,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557001",
+      "NAME": "Aabish Obaid",
+      "CLASS": "7",
+      "MOB": "8299530369"
   },
   {
-   "Roll No.": 10607,
-   "Students Name": "AROHI SRIVASTAVA",
-   "Whatsapp No.": 9696301880,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557002",
+      "NAME": "Aadhya Singh",
+      "CLASS": "7",
+      "MOB": "6387464775"
   },
   {
-   "Roll No.": 10648,
-   "Students Name": "ARYAN MISHRA",
-   "Whatsapp No.": 8967554399,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557004",
+      "NAME": "Aaradhya Mishra",
+      "CLASS": "7",
+      "MOB": "9415500549"
   },
   {
-   "Roll No.": 10608,
-   "Students Name": "ATHARV SINGH",
-   "Whatsapp No.": 9336437372,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557008",
+      "NAME": "Aharya Yadav",
+      "CLASS": "7",
+      "MOB": "9458642783"
   },
   {
-   "Roll No.": 7202,
-   "Students Name": "AYAN KHAN",
-   "Whatsapp No.": 7860986104,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557009",
+      "NAME": "Akshat",
+      "CLASS": "7",
+      "MOB": "9452107557"
   },
   {
-   "Roll No.": 8053,
-   "Students Name": "DEV BRAMH SINGH",
-   "Whatsapp No.": 9648532484,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557013",
+      "NAME": "Alisha Ali Siddiqui",
+      "CLASS": "7",
+      "MOB": "8429366500"
   },
   {
-   "Roll No.": 10565,
-   "Students Name": "HIMANSHU KANOJIA",
-   "Whatsapp No.": 8917755212,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557014",
+      "NAME": "Anmol Kr. Srivastava",
+      "CLASS": "7",
+      "MOB": "9454058669"
   },
   {
-   "Roll No.": 10604,
-   "Students Name": "MANISHA SHUKLA ",
-   "Whatsapp No.": 9598244911,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557016",
+      "NAME": "Aradhy Dakshvanshi",
+      "CLASS": "7",
+      "MOB": "9839186349"
   },
   {
-   "Roll No.": 10606,
-   "Students Name": "MITALI",
-   "Whatsapp No.": 7903296787,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557018",
+      "NAME": "Aradhya Kesarwani",
+      "CLASS": "7",
+      "MOB": "8881272425"
   },
   {
-   "Roll No.": 10639,
-   "Students Name": "POORNIMA SINGH",
-   "Whatsapp No.": 8081769534,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557021",
+      "NAME": "Arshit Dubey",
+      "CLASS": "7",
+      "MOB": "8318330486"
   },
   {
-   "Roll No.": 10583,
-   "Students Name": "RIDDHI GOAWAMI ",
-   "Whatsapp No.": 9451304083,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557023",
+      "NAME": "Atharva Tiwari",
+      "CLASS": "7",
+      "MOB": "8756647304"
   },
   {
-   "Roll No.": 10635,
-   "Students Name": "SANSKAR SINGH",
-   "Whatsapp No.": 8887896685,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557025",
+      "NAME": "Ayan Khan",
+      "CLASS": "7",
+      "MOB": "7860986104"
   },
   {
-   "Roll No.": 10685,
-   "Students Name": "SAUMYA KUMARI",
-   "Whatsapp No.": 9569279661,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557027",
+      "NAME": "Ayush Vishwakarma",
+      "CLASS": "7",
+      "MOB": "9936050716"
   },
   {
-   "Roll No.": 10605,
-   "Students Name": "SHIVANGI MAURYA",
-   "Whatsapp No.": 9838137050,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557029",
+      "NAME": "Dhruv Singh",
+      "CLASS": "7",
+      "MOB": "9569996404"
   },
   {
-   "Roll No.": 10645,
-   "Students Name": "TEJASVI KUMAR",
-   "Whatsapp No.": 8102343858,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557034",
+      "NAME": "Harsh Gupta ",
+      "CLASS": "7",
+      "MOB": "7319893583"
   },
   {
-   "Roll No.": 2033,
-   "Students Name": "TRISHA GUPTA",
-   "Whatsapp No.": 8299081705,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557035",
+      "NAME": "Harshita Dwivedi",
+      "CLASS": "7",
+      "MOB": "8115491773"
   },
   {
-   "Roll No.": 10582,
-   "Students Name": "VARTIKA KANOUJIYA",
-   "Whatsapp No.": 9593506500,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557036",
+      "NAME": "Hifza Faisal",
+      "CLASS": "7",
+      "MOB": "9161615786"
   },
   {
-   "Roll No.": 5029,
-   "Students Name": "WANIYA MISHKAT",
-   "Whatsapp No.": 7007651372,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557038",
+      "NAME": "Kartikey Agrahari",
+      "CLASS": "7",
+      "MOB": "9839717030"
   },
   {
-   "Roll No.": 2256,
-   "Students Name": "AARAV MISHRA",
-   "Whatsapp No.": 7008084007,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557039",
+      "NAME": "Kartikeya Singh",
+      "CLASS": "7",
+      "MOB": "6307689229"
   },
   {
-   "Roll No.": 6950,
-   "Students Name": "AARNAV",
-   "Whatsapp No.": 7785823379,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557040",
+      "NAME": "Kumar Sohan",
+      "CLASS": "7",
+      "MOB": "8210376322"
   },
   {
-   "Roll No.": 10543,
-   "Students Name": "ABHAY VERMA",
-   "Whatsapp No.": 9118475268,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557041",
+      "NAME": "Kush Pandey",
+      "CLASS": "7",
+      "MOB": "9305452261"
   },
   {
-   "Roll No.": 6090,
-   "Students Name": "AGRIMA YADAV",
-   "Whatsapp No.": 9305144991,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557049",
+      "NAME": "Parth Singh",
+      "CLASS": "7",
+      "MOB": "7007395089"
   },
   {
-   "Roll No.": 10559,
-   "Students Name": "ANSHIKA SINGH",
-   "Whatsapp No.": 9956842231,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557052",
+      "NAME": "Prashasti Gupta",
+      "CLASS": "7",
+      "MOB": "8931924919"
   },
   {
-   "Roll No.": 10546,
-   "Students Name": "ARADHYA SWARNAKAR",
-   "Whatsapp No.": 9454824432,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557053",
+      "NAME": "Prince Soni",
+      "CLASS": "7",
+      "MOB": "9936062840"
   },
   {
-   "Roll No.": 8598,
-   "Students Name": "ARYAN MAURYA ",
-   "Whatsapp No.": 9918677147,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557054",
+      "NAME": "Priyam Srivastava",
+      "CLASS": "7",
+      "MOB": "9140037930"
   },
   {
-   "Roll No.": 10553,
-   "Students Name": "ASTHA SINGH",
-   "Whatsapp No.": 7380784965,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557059",
+      "NAME": "Sanvrit Singh",
+      "CLASS": "7",
+      "MOB": "8931815450"
   },
   {
-   "Roll No.": 2202,
-   "Students Name": "KHYATI KHANNA",
-   "Whatsapp No.": 9473956908,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557060",
+      "NAME": "Sarthak Singh",
+      "CLASS": "7",
+      "MOB": "9415703322"
   },
   {
-   "Roll No.": 10544,
-   "Students Name": "LAV YADAV",
-   "Whatsapp No.": 7348308626,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557066",
+      "NAME": "Shivansh Mishra",
+      "CLASS": "7",
+      "MOB": "7668486669"
   },
   {
-   "Roll No.": 2170,
-   "Students Name": "SHAGUN SINGH",
-   "Whatsapp No.": 9119637490,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557069",
+      "NAME": "Shreyash Verma",
+      "CLASS": "7",
+      "MOB": "8299646674"
   },
   {
-   "Roll No.": 2079,
-   "Students Name": "SHLOK GUPTA",
-   "Whatsapp No.": 9335422186,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557072",
+      "NAME": "Stuti Gautam",
+      "CLASS": "7",
+      "MOB": "8005062917"
   },
   {
-   "Roll No.": 4040,
-   "Students Name": "SHOBHIT PATEL",
-   "Whatsapp No.": 8009339035,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557073",
+      "NAME": "Tarun Gupta",
+      "CLASS": "7",
+      "MOB": "8299036327"
   },
   {
-   "Roll No.": 6984,
-   "Students Name": "SHRADDHA SINGH",
-   "Whatsapp No.": 8090266274,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557075",
+      "NAME": "Unnati Srivastava",
+      "CLASS": "7",
+      "MOB": "7388731898"
   },
   {
-   "Roll No.": 6902,
-   "Students Name": "VERTIKA MISHRA",
-   "Whatsapp No.": 9125863131,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557076",
+      "NAME": "Utkarsh Srivastava",
+      "CLASS": "7",
+      "MOB": "8810966213"
   },
   {
-   "Roll No.": 2285,
-   "Students Name": "VIBHAV CHANDRA",
-   "Whatsapp No.": 9454698084,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557077",
+      "NAME": "Vaibhav Yadav",
+      "CLASS": "7",
+      "MOB": "8423455377"
   },
   {
-   "Roll No.": 2521,
-   "Students Name": "AARIT JAISWAL",
-   "Whatsapp No.": 7309763473,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557078",
+      "NAME": "Ved Shanker  Pandey",
+      "CLASS": "7",
+      "MOB": "8004168592"
   },
   {
-   "Roll No.": 5009,
-   "Students Name": "AAYAT ANSARI",
-   "Whatsapp No.": 9696578527,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557080",
+      "NAME": "Vishesh Mishra",
+      "CLASS": "7",
+      "MOB": "9026092912"
   },
   {
-   "Roll No.": 10124,
-   "Students Name": "ARNAV ANAND",
-   "Whatsapp No.": 9140940860,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557081",
+      "NAME": "Yashasvi Yadav",
+      "CLASS": "7",
+      "MOB": "9452822248"
   },
   {
-   "Roll No.": 1095,
-   "Students Name": "ASTIK KUMAR BISWAS",
-   "Whatsapp No.": 9235837336,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557082",
+      "NAME": "Zunaira",
+      "CLASS": "7",
+      "MOB": "9389541176"
   },
   {
-   "Roll No.": 10310,
-   "Students Name": "DIVYANSHI CHURASIYA",
-   "Whatsapp No.": 9369156008,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558001",
+      "NAME": "Aadhya",
+      "CLASS": "8",
+      "MOB": "9451074250"
   },
   {
-   "Roll No.": 5008,
-   "Students Name": "INSHA RAZA KAZMI",
-   "Whatsapp No.": 8081213271,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558002",
+      "NAME": "Aanya Agrahari",
+      "CLASS": "8",
+      "MOB": "9336705498"
   },
   {
-   "Roll No.": 8998,
-   "Students Name": "NISCHAY PANDEY",
-   "Whatsapp No.": 8949285808,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558004",
+      "NAME": "Aastik Mishra",
+      "CLASS": "8",
+      "MOB": "9473851811"
   },
   {
-   "Roll No.": 10425,
-   "Students Name": "POORNENDU SINGH",
-   "Whatsapp No.": 9453577541,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558006",
+      "NAME": "Alveena Naaz",
+      "CLASS": "8",
+      "MOB": "9695457037"
   },
   {
-   "Roll No.": 10314,
-   "Students Name": "SURAJ SINGH YADAV",
-   "Whatsapp No.": 9696157526,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558007",
+      "NAME": "Amit Verma",
+      "CLASS": "8",
+      "MOB": "8887992133"
   },
   {
-   "Roll No.": 6903,
-   "Students Name": "SWASTIKA MISHRA",
-   "Whatsapp No.": 7267082793,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558010",
+      "NAME": "Arjan Arora",
+      "CLASS": "8",
+      "MOB": "8840035306"
   },
   {
-   "Roll No.": 10690,
-   "Students Name": "TANISHQ RAJ THAKUR",
-   "Whatsapp No.": 9919783485,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558013",
+      "NAME": "Aryan-1",
+      "CLASS": "8",
+      "MOB": "8299481997"
   },
   {
-   "Roll No.": 8372,
-   "Students Name": "AKHIL SINGH",
-   "Whatsapp No.": 8318706195,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558014",
+      "NAME": "Astha Verma",
+      "CLASS": "8",
+      "MOB": "9555453081"
   },
   {
-   "Roll No.": 8392,
-   "Students Name": "KAUTILYA SINGH",
-   "Whatsapp No.": 9415605102,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558015",
+      "NAME": "Aviral Singh Raghuvansi",
+      "CLASS": "8",
+      "MOB": "9026231187"
   },
   {
-   "Roll No.": 8384,
-   "Students Name": "RITIKA ",
-   "Whatsapp No.": 9899680120,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558016",
+      "NAME": "Chitransh Yadav",
+      "CLASS": "8",
+      "MOB": "6392453301"
   },
   {
-   "Roll No.": 2280,
-   "Students Name": "AARIKA THAKUR",
-   "Whatsapp No.": 9451905425,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558017",
+      "NAME": "Farha Mohammad",
+      "CLASS": "8",
+      "MOB": "9935245822"
   },
   {
-   "Roll No.": 8820,
-   "Students Name": "AASHI MAURYA ",
-   "Whatsapp No.": 9415500800,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558021",
+      "NAME": "Mayank Yadav",
+      "CLASS": "8",
+      "MOB": "9792797505"
   },
   {
-   "Roll No.": 8422,
-   "Students Name": "AFTAB KHAN",
-   "Whatsapp No.": 8400212112,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558022",
+      "NAME": "Oopmanya Srivastava",
+      "CLASS": "8",
+      "MOB": "7376392089"
   },
   {
-   "Roll No.": 2216,
-   "Students Name": "AIZAH FATIMA",
-   "Whatsapp No.": 9026424772,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558028",
+      "NAME": "Tahreem Afra",
+      "CLASS": "8",
+      "MOB": "8887630333"
   },
   {
-   "Roll No.": 8230,
-   "Students Name": "ANAMIKA SINGH",
-   "Whatsapp No.": 8318706195,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558029",
+      "NAME": "Varsha Singh",
+      "CLASS": "8",
+      "MOB": "8958352276"
   },
   {
-   "Roll No.": 8418,
-   "Students Name": "AVIYA VERMA",
-   "Whatsapp No.": 7084307603,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558032",
+      "NAME": "Zoya Ikram",
+      "CLASS": "8",
+      "MOB": "9839978677"
   },
   {
-   "Roll No.": 2214,
-   "Students Name": "DARSH SRIVASTAVA",
-   "Whatsapp No.": 8853909952,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550002",
+      "NAME": "Atharav Kumar",
+      "CLASS": "LKG",
+      "MOB": "8840728057"
   },
   {
-   "Roll No.": 8812,
-   "Students Name": "DARSHIKA SINGH",
-   "Whatsapp No.": 9956201185,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552036",
+      "NAME": "Yathansh Singh",
+      "CLASS": "2",
+      "MOB": "6394065195"
   },
   {
-   "Roll No.": 8079,
-   "Students Name": "GARIMA MISHRA",
-   "Whatsapp No.": 9335421014,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552016",
+      "NAME": "Divit ",
+      "CLASS": "2",
+      "MOB": "8765945002"
   },
   {
-   "Roll No.": 8225,
-   "Students Name": "HIMANSHU YADAV ",
-   "Whatsapp No.": 9125993376,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555034",
+      "NAME": "Ranak Singh",
+      "CLASS": "5",
+      "MOB": "9198373047"
   },
   {
-   "Roll No.": 9551,
-   "Students Name": "ISHANVI",
-   "Whatsapp No.": 8175065705,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557012",
+      "NAME": "Ali Ahmad Ansari",
+      "CLASS": "7",
+      "MOB": "9935244890"
   },
   {
-   "Roll No.": 8415,
-   "Students Name": "KRITYAM SINGH",
-   "Whatsapp No.": 6386530294,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557050",
+      "NAME": "Pranay Tripathi ",
+      "CLASS": "7",
+      "MOB": "8858314068"
   },
   {
-   "Roll No.": 2775,
-   "Students Name": "KUSHAGRA SINGH",
-   "Whatsapp No.": 8799414858,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558031",
+      "NAME": "Viraj Gupta",
+      "CLASS": "8",
+      "MOB": "9450086023"
   },
   {
-   "Roll No.": 9553,
-   "Students Name": "NAVYA SRIVASTAVA",
-   "Whatsapp No.": 9451056872,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550001",
+      "NAME": "Anaya Srivastava",
+      "CLASS": "LKG",
+      "MOB": "7376215078"
   },
   {
-   "Roll No.": 8419,
-   "Students Name": "RUDRA TIWARI",
-   "Whatsapp No.": 8738818048,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550004",
+      "NAME": "Ayaans Shinoj",
+      "CLASS": "LKG",
+      "MOB": "9633616400"
   },
   {
-   "Roll No.": 8229,
-   "Students Name": "SANVI KESARI",
-   "Whatsapp No.": 7905292534,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550005",
+      "NAME": "Ayansh Jaiswal",
+      "CLASS": "LKG",
+      "MOB": "7380790882"
   },
   {
-   "Roll No.": 8821,
-   "Students Name": "VIDUSHI DWIVEDI",
-   "Whatsapp No.": 8318054551,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "550011",
+      "NAME": "Pragyan Pratap",
+      "CLASS": "LKG",
+      "MOB": "9554510490"
   },
   {
-   "Roll No.": 8676,
-   "Students Name": "YUVAAN MISHRA",
-   "Whatsapp No.": 9881159059,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559001",
+      "NAME": "Aakarsh Tripathi ",
+      "CLASS": "UKG",
+      "MOB": "8948169455"
   },
   {
-   "Roll No.": 6298,
-   "Students Name": "ANJIL SINGH",
-   "Whatsapp No.": 9670664133,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559003",
+      "NAME": "Abram Singh",
+      "CLASS": "UKG",
+      "MOB": "7524056199"
   },
   {
-   "Roll No.": 1025,
-   "Students Name": "ARADHYA PANDEY",
-   "Whatsapp No.": 8858511201,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559005",
+      "NAME": "Atharv Rathour",
+      "CLASS": "UKG",
+      "MOB": "9839607409"
   },
   {
-   "Roll No.": 1199,
-   "Students Name": "ARADHYA TRIPATHI",
-   "Whatsapp No.": 9721087446,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559006",
+      "NAME": "Avi Yadav",
+      "CLASS": "UKG",
+      "MOB": "9452323056"
   },
   {
-   "Roll No.": 8603,
-   "Students Name": "ASHAF JAFRI ",
-   "Whatsapp No.": 7080222222,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559013",
+      "NAME": "Shivendra Pratap Singh ",
+      "CLASS": "UKG",
+      "MOB": "6392359007"
   },
   {
-   "Roll No.": 8589,
-   "Students Name": "GANESH SHUKLA",
-   "Whatsapp No.": 7521861878,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559014",
+      "NAME": "Shreeyd Singh",
+      "CLASS": "UKG",
+      "MOB": "6392359007"
   },
   {
-   "Roll No.": 8593,
-   "Students Name": "HIMANK SINGH",
-   "Whatsapp No.": 8009569535,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559016",
+      "NAME": "Swastik Tondon",
+      "CLASS": "UKG",
+      "MOB": "8127863231"
   },
   {
-   "Roll No.": 8608,
-   "Students Name": "MEEMANSHA PANDEY",
-   "Whatsapp No.": 9455520286,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559017",
+      "NAME": "Vaishnavi Pandey ",
+      "CLASS": "UKG",
+      "MOB": "7985968996"
   },
   {
-   "Roll No.": 8207,
-   "Students Name": "PARIDHI MAURYA ",
-   "Whatsapp No.": 9335154682,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "559018",
+      "NAME": "Vanshika Singh",
+      "CLASS": "UKG",
+      "MOB": "6306416569"
   },
   {
-   "Roll No.": 6892,
-   "Students Name": "SARISHA",
-   "Whatsapp No.": 8076072880,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551004",
+      "NAME": "Adesh Singh",
+      "CLASS": "1",
+      "MOB": "6392137754"
   },
   {
-   "Roll No.": 6110,
-   "Students Name": "AAROHI SHUKLA",
-   "Whatsapp No.": 8574300374,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551007",
+      "NAME": "Aizah Fatima",
+      "CLASS": "1",
+      "MOB": "9026424772"
   },
   {
-   "Roll No.": 1221,
-   "Students Name": "AAVYA",
-   "Whatsapp No.": 9120872255,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551009",
+      "NAME": "Anika Jaiswal",
+      "CLASS": "1",
+      "MOB": "8433329529"
   },
   {
-   "Roll No.": 8115,
-   "Students Name": "ABHAY YADAV",
-   "Whatsapp No.": 8127568882,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551013",
+      "NAME": "Aviraj Chauhan",
+      "CLASS": "1",
+      "MOB": "7081298129"
   },
   {
-   "Roll No.": 8720,
-   "Students Name": "ABHI YADAV",
-   "Whatsapp No.": 9415683015,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551027",
+      "NAME": "Navya Srivastava",
+      "CLASS": "1",
+      "MOB": "9721458609"
   },
   {
-   "Roll No.": 8856,
-   "Students Name": "ANANT TRIPATHI",
-   "Whatsapp No.": 8738047384,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551033",
+      "NAME": "Saanvi Srivastava",
+      "CLASS": "1",
+      "MOB": "6394364076"
   },
   {
-   "Roll No.": 8118,
-   "Students Name": "ANJAL SINGH",
-   "Whatsapp No.": 9455470503,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551034",
+      "NAME": "Saina Bharti",
+      "CLASS": "1",
+      "MOB": "8317029354"
   },
   {
-   "Roll No.": 8745,
-   "Students Name": "ANOMA",
-   "Whatsapp No.": 7310295999,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551036",
+      "NAME": "Shreya Singh",
+      "CLASS": "1",
+      "MOB": "9918993830"
   },
   {
-   "Roll No.": 1282,
-   "Students Name": "ANUBHAV P. SINGH",
-   "Whatsapp No.": 8840718237,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551040",
+      "NAME": "Stavya Mathur",
+      "CLASS": "1",
+      "MOB": "9453234124"
   },
   {
-   "Roll No.": 1260,
-   "Students Name": "AVANI GUPTA",
-   "Whatsapp No.": 8765796384,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551042",
+      "NAME": "Vihaan Saraswat",
+      "CLASS": "1",
+      "MOB": "9026166516"
   },
   {
-   "Roll No.": 8127,
-   "Students Name": "DISHA YADAV",
-   "Whatsapp No.": 9919153773,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "551043",
+      "NAME": "Zainab ",
+      "CLASS": "1",
+      "MOB": "9506513287"
   },
   {
-   "Roll No.": 8151,
-   "Students Name": "DRISHTI YADAV",
-   "Whatsapp No.": 9919153773,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552002",
+      "NAME": "Aditya Shukla ",
+      "CLASS": "2",
+      "MOB": "8896685567"
   },
   {
-   "Roll No.": 1226,
-   "Students Name": "HARSH PANDEY",
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552017",
+      "NAME": "Hareem Javed",
+      "CLASS": "2",
+      "MOB": "7268873421"
   },
   {
-   "Roll No.": 8730,
-   "Students Name": "HASAN ASKARI",
-   "Whatsapp No.": 7388735887,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552023",
+      "NAME": "Mohd.Ariz Farooqui ",
+      "CLASS": "2",
+      "MOB": "9519946860"
   },
   {
-   "Roll No.": 6084,
-   "Students Name": "LAKSHYA GUPTA",
-   "Whatsapp No.": 9369315528,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552025",
+      "NAME": "Sampann Aryash Gupta",
+      "CLASS": "2",
+      "MOB": "8527766761"
   },
   {
-   "Roll No.": 8134,
-   "Students Name": "MELISHA KUSHWAHA",
-   "Whatsapp No.": 9305000800,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552031",
+      "NAME": "Shihaan Gupta ",
+      "CLASS": "2",
+      "MOB": "9554400010"
   },
   {
-   "Roll No.": 8154,
-   "Students Name": "NIDHI",
-   "Whatsapp No.": 9794540311,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552034",
+      "NAME": "Vinayak Srivastava",
+      "CLASS": "2",
+      "MOB": "7355695461"
   },
   {
-   "Roll No.": 8137,
-   "Students Name": "PIYUSH YADAV",
-   "Whatsapp No.": 7007647494,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553008",
+      "NAME": "Anshika Pandey",
+      "CLASS": "3",
+      "MOB": "7985968996"
   },
   {
-   "Roll No.": 6778,
-   "Students Name": "SANA BANO",
-   "Whatsapp No.": 9559538642,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553010",
+      "NAME": "Atharva Kumar ",
+      "CLASS": "3",
+      "MOB": "8299895212"
   },
   {
-   "Roll No.": 8143,
-   "Students Name": "SANSKRITI SINGH",
-   "Whatsapp No.": 8195131414,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553014",
+      "NAME": "Fatima Syed",
+      "CLASS": "3",
+      "MOB": "9506998350"
   },
   {
-   "Roll No.": 2299,
-   "Students Name": "SARVAGYA KATIYAR",
-   "Whatsapp No.": 8922085502,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553016",
+      "NAME": "Lakshya Gupta ",
+      "CLASS": "3",
+      "MOB": "7007987190"
   },
   {
-   "Roll No.": 2321,
-   "Students Name": "SHRISHTI",
-   "Whatsapp No.": 7232939921,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553023",
+      "NAME": "Saksham Vishwakarma ",
+      "CLASS": "3",
+      "MOB": "8318529187"
   },
   {
-   "Roll No.": 8164,
-   "Students Name": "URVI KESARWANI",
-   "Whatsapp No.": 9936450479,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553024",
+      "NAME": "Sanskriti ",
+      "CLASS": "3",
+      "MOB": "9972169049"
   },
   {
-   "Roll No.": 8854,
-   "Students Name": "VIVAN MAURYA",
-   "Whatsapp No.": 9956805353,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553026",
+      "NAME": "Sarvshreshth Kumar Gupta",
+      "CLASS": "3",
+      "MOB": ""
   },
   {
-   "Roll No.": 2254,
-   "Students Name": "YASHAL SALEEM",
-   "Whatsapp No.": 6386463855,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554002",
+      "NAME": "Aaima Asad",
+      "CLASS": "4",
+      "MOB": "9936644793"
   },
   {
-   "Roll No.": 1029,
-   "Students Name": "GARIMA GUPTA",
-   "Whatsapp No.": 6387019224,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554008",
+      "NAME": "Anshul ",
+      "CLASS": "4",
+      "MOB": "8756778386"
   },
   {
-   "Roll No.": 2023,
-   "Students Name": "GARIMA SRIVASTAVA",
-   "Whatsapp No.": 9532878006,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554009",
+      "NAME": "Anushka Gupta",
+      "CLASS": "4",
+      "MOB": "9307913231"
   },
   {
-   "Roll No.": 8323,
-   "Students Name": "GAURI SAXENA",
-   "Whatsapp No.": 9695192683,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554010",
+      "NAME": "Aquasha Naaz Khan ",
+      "CLASS": "4",
+      "MOB": "9125060524"
   },
   {
-   "Roll No.": 10335,
-   "Students Name": "NOMIT SHARMA",
-   "Whatsapp No.": 7565036005,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554013",
+      "NAME": "Arnav Abhigyan Thakur ",
+      "CLASS": "4",
+      "MOB": "8141687769"
   },
   {
-   "Roll No.": 8751,
-   "Students Name": "PIYUSH RAJ",
-   "Whatsapp No.": 9956842810,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554019",
+      "NAME": "Devansh Kumar Srivastava",
+      "CLASS": "4",
+      "MOB": "7376215078"
   },
   {
-   "Roll No.": 8759,
-   "Students Name": "PRAGYA SINGH",
-   "Whatsapp No.": 6306600871,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554021",
+      "NAME": "Hardik Saxena ",
+      "CLASS": "4",
+      "MOB": "8175856436"
   },
   {
-   "Roll No.": 9524,
-   "Students Name": "PRANJAL",
-   "Whatsapp No.": 7800569774,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554025",
+      "NAME": "Niharika Yadav",
+      "CLASS": "4",
+      "MOB": "7000826203"
   },
   {
-   "Roll No.": 8752,
-   "Students Name": "PRIYANSHI YADAV",
-   "Whatsapp No.": 7710045743,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554028",
+      "NAME": "Riddhi Kesarwani ",
+      "CLASS": "4",
+      "MOB": "7309501213"
   },
   {
-   "Roll No.": 2832,
-   "Students Name": "SAKYANSHI MAURYA",
-   "Whatsapp No.": 6388240264,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554029",
+      "NAME": "Rishita Narayan",
+      "CLASS": "4",
+      "MOB": "9335770366"
   },
   {
-   "Roll No.": 10274,
-   "Students Name": "SIDRA AJAZ",
-   "Whatsapp No.": 8687021102,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554031",
+      "NAME": "Rudra Pratap Singh",
+      "CLASS": "4",
+      "MOB": "8299389880"
   },
   {
-   "Roll No.": 8763,
-   "Students Name": "SUNDRAM SINGH",
-   "Whatsapp No.": 7398392803,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554038",
+      "NAME": "Utkarsha Srivastava",
+      "CLASS": "4",
+      "MOB": "7016938559"
   },
   {
-   "Roll No.": 8301,
-   "Students Name": "UZAIR AHMAD",
-   "Whatsapp No.": 6306854964,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554043",
+      "NAME": "Zehanat Fatima ",
+      "CLASS": "4",
+      "MOB": "8419002454"
   },
   {
-   "Roll No.": 8300,
-   "Students Name": "VIRAT KESARWANI",
-   "Whatsapp No.": 7800554530,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555001",
+      "NAME": "Aakarshi Agrahari",
+      "CLASS": "5",
+      "MOB": "8318702903"
   },
   {
-   "Roll No.": 10306,
-   "Students Name": "ABHINAV ANAND",
-   "Whatsapp No.": 9140940860,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555003",
+      "NAME": "Aarohi Yadav",
+      "CLASS": "5",
+      "MOB": "7376157899"
   },
   {
-   "Roll No.": 8183,
-   "Students Name": "ABHINAV RAJ ",
-   "Whatsapp No.": 9454096315,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555004",
+      "NAME": "Aarush Agrawal ",
+      "CLASS": "5",
+      "MOB": "9415018742"
   },
   {
-   "Roll No.": 8112,
-   "Students Name": "ARPIT GUPTA",
-   "Whatsapp No.": 8545093455,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555006",
+      "NAME": "Abhinav ",
+      "CLASS": "5",
+      "MOB": "7235046811"
   },
   {
-   "Roll No.": 8111,
-   "Students Name": "ASHAD KHAN",
-   "Whatsapp No.": 6306713284,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555007",
+      "NAME": "Achintya",
+      "CLASS": "5",
+      "MOB": "9532714324"
   },
   {
-   "Roll No.": 8628,
-   "Students Name": "ASHUTOSH MISHRA",
-   "Whatsapp No.": 8009927961,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555010",
+      "NAME": "Anshuman Shukla",
+      "CLASS": "5",
+      "MOB": "8707613944"
   },
   {
-   "Roll No.": 8614,
-   "Students Name": "ASTHA YADAV",
-   "Whatsapp No.": 9415683015,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555021",
+      "NAME": "Laiba Asif Ansari",
+      "CLASS": "5",
+      "MOB": "9838589013"
   },
   {
-   "Roll No.": 8624,
-   "Students Name": "ATULYA PANDEY",
-   "Whatsapp No.": 9455520286,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555022",
+      "NAME": "Manas Srivastava",
+      "CLASS": "5",
+      "MOB": "9807922903"
   },
   {
-   "Roll No.": 8626,
-   "Students Name": "AVIK SINGH",
-   "Whatsapp No.": 9956977050,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555023",
+      "NAME": "Mohd .Umar",
+      "CLASS": "5",
+      "MOB": "7860631799"
   },
   {
-   "Roll No.": 8186,
-   "Students Name": "AYANN MALIK",
-   "Whatsapp No.": 9369225759,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555025",
+      "NAME": "Navya Rai",
+      "CLASS": "5",
+      "MOB": "9450436119"
   },
   {
-   "Roll No.": 8634,
-   "Students Name": "CRYSTAL CHAUDHARY",
-   "Whatsapp No.": 8410307964,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555033",
+      "NAME": "Raavi Mishra ",
+      "CLASS": "5",
+      "MOB": "9794841492"
   },
   {
-   "Roll No.": 10359,
-   "Students Name": "DIVYANSH GUPTA",
-   "Whatsapp No.": 8858751397,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555036",
+      "NAME": "Shambhavi Umrao",
+      "CLASS": "5",
+      "MOB": "9026685235"
   },
   {
-   "Roll No.": 8175,
-   "Students Name": "LAKSHYA KESARWANI",
-   "Whatsapp No.": 7317378138,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555038",
+      "NAME": "Shawaiz Raza Khan ",
+      "CLASS": "5",
+      "MOB": "9026424772"
   },
   {
-   "Roll No.": 8611,
-   "Students Name": "MOHD. ANAS",
-   "Whatsapp No.": 8707239193,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555039",
+      "NAME": "Shivangi Joshi",
+      "CLASS": "5",
+      "MOB": "8299797046"
   },
   {
-   "Roll No.": 2185,
-   "Students Name": "NEEHARIKA SINGH",
-   "Whatsapp No.": 9415134296,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555041",
+      "NAME": "Shramidhi Jaiswal",
+      "CLASS": "5",
+      "MOB": "7355086174"
   },
   {
-   "Roll No.": 2278,
-   "Students Name": "PEEHU SHUKLA",
-   "Whatsapp No.": 9838821394,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555045",
+      "NAME": "Tanvika Singh",
+      "CLASS": "5",
+      "MOB": "8090701055"
   },
   {
-   "Roll No.": 8191,
-   "Students Name": "SARTHAK JAISWAL",
-   "Whatsapp No.": 9005056846,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "555046",
+      "NAME": "Vidit Kandru",
+      "CLASS": "5",
+      "MOB": "6394924239"
   },
   {
-   "Roll No.": 8631,
-   "Students Name": "SHASHANK SINGH ",
-   "Whatsapp No.": 9651806205,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556020",
+      "NAME": "Aashriya Singh",
+      "CLASS": "6",
+      "MOB": "9554597622"
   },
   {
-   "Roll No.": 8637,
-   "Students Name": "SHIVANG SINGH",
-   "Whatsapp No.": 8840370368,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556004",
+      "NAME": "Aayu Tripathi",
+      "CLASS": "6",
+      "MOB": "7897399997"
   },
   {
-   "Roll No.": 8177,
-   "Students Name": "SHREYANSH KESARI",
-   "Whatsapp No.": 7985385220,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556007",
+      "NAME": "Akshat Raj Yadav",
+      "CLASS": "6",
+      "MOB": "9307212854"
   },
   {
-   "Roll No.": 10119,
-   "Students Name": "ADARSH KUMAR KANOUJIYA",
-   "Whatsapp No.": 7237918023,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556010",
+      "NAME": "Aniket Singh",
+      "CLASS": "6",
+      "MOB": "6392145027"
   },
   {
-   "Roll No.": 8911,
-   "Students Name": "AKSHAT SHUKLA",
-   "Whatsapp No.": 9455386769,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556012",
+      "NAME": "Anshuman Singh",
+      "CLASS": "6",
+      "MOB": "8004905949"
   },
   {
-   "Roll No.": 6399,
-   "Students Name": "ALANKRITA MISHRA",
-   "Whatsapp No.": 9161002099,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556016",
+      "NAME": "Aradhya Srivastava ",
+      "CLASS": "6",
+      "MOB": "8948083874"
   },
   {
-   "Roll No.": 8200,
-   "Students Name": "AYANYA SINGH",
-   "Whatsapp No.": 8736094456,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556021",
+      "NAME": "Arush Chakraborty ",
+      "CLASS": "6",
+      "MOB": "8707437875"
   },
   {
-   "Roll No.": 2779,
-   "Students Name": "EKAGRA SINGH",
-   "Whatsapp No.": 9451930369,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556029",
+      "NAME": "Daksh Sinha",
+      "CLASS": "6",
+      "MOB": "9140089879"
   },
   {
-   "Roll No.": 8848,
-   "Students Name": "IZHARUL ",
-   "Whatsapp No.": 8081580516,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556041",
+      "NAME": "Krishangi Srivastava",
+      "CLASS": "6",
+      "MOB": "9140965376"
   },
   {
-   "Roll No.": 8841,
-   "Students Name": "KARTIKEY YADAV",
-   "Whatsapp No.": 9415683015,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556044",
+      "NAME": "Mansi Singh",
+      "CLASS": "6",
+      "MOB": "9532491077"
   },
   {
-   "Roll No.": 5614,
-   "Students Name": "MOHAMMAD RAZA",
-   "Whatsapp No.": 6388157646,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556057",
+      "NAME": "Shachi Sandeep Kushwaha",
+      "CLASS": "6",
+      "MOB": "7355021918"
   },
   {
-   "Roll No.": 5238,
-   "Students Name": "NARGIS FATIMA",
-   "Whatsapp No.": 9670671520,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556067",
+      "NAME": "Utkarsh Kumar",
+      "CLASS": "6",
+      "MOB": "6307003788"
   },
   {
-   "Roll No.": 2829,
-   "Students Name": "RIYA PAL",
-   "Whatsapp No.": 8173934964,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556073",
+      "NAME": "Vivaan Singh",
+      "CLASS": "6",
+      "MOB": "7985346921"
   },
   {
-   "Roll No.": 8242,
-   "Students Name": "SAMAD",
-   "Whatsapp No.": 9026346771,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556075",
+      "NAME": "Yashashvi Singh",
+      "CLASS": "6",
+      "MOB": "9721410660"
   },
   {
-   "Roll No.": 8240,
-   "Students Name": "SUHANI YADAV",
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557005",
+      "NAME": "Aaradhya Pathak",
+      "CLASS": "7",
+      "MOB": "6263771381"
   },
   {
-   "Roll No.": 8888,
-   "Students Name": "TAKDIRUN NISHA",
-   "Whatsapp No.": 8081580516,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557007",
+      "NAME": "Afia Ansari",
+      "CLASS": "7",
+      "MOB": "9793854850"
   },
   {
-   "Roll No.": 8241,
-   "Students Name": "YASH MISHRA",
-   "Whatsapp No.": 8009356852,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557011",
+      "NAME": "Akshat Sahu",
+      "CLASS": "7",
+      "MOB": "8009565657"
   },
   {
-   "Roll No.": 8846,
-   "Students Name": "YASH SINGH",
-   "Whatsapp No.": 7499904408,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557017",
+      "NAME": "Aradhya",
+      "CLASS": "7",
+      "MOB": "9415800388"
   },
   {
-   "Roll No.": 7201,
-   "Students Name": "ZAFRA AMIR",
-   "Whatsapp No.": 7985368744,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557020",
+      "NAME": "Arsh Nigam",
+      "CLASS": "7",
+      "MOB": "9548951324"
   },
   {
-   "Roll No.": 6109,
-   "Students Name": "ADHRIT ASTHANA",
-   "Whatsapp No.": 9928074181,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557022",
+      "NAME": "Arth Gupta",
+      "CLASS": "7",
+      "MOB": "9653003521"
   },
   {
-   "Roll No.": 2036,
-   "Students Name": "AFIA ANSARI",
-   "Whatsapp No.": 9793854858,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557024",
+      "NAME": "Avni",
+      "CLASS": "7",
+      "MOB": "9653034669"
   },
   {
-   "Roll No.": 8923,
-   "Students Name": "ALIZA AYAT ",
-   "Whatsapp No.": 6392686916,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557032",
+      "NAME": "Divyanshi Maurya",
+      "CLASS": "7",
+      "MOB": "9369494858"
   },
   {
-   "Roll No.": 10661,
-   "Students Name": "ANANYA SINGH",
-   "Whatsapp No.": 9452934072,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557037",
+      "NAME": "Ishita Shepherd",
+      "CLASS": "7",
+      "MOB": "9838122567"
   },
   {
-   "Roll No.": 8058,
-   "Students Name": "ANANYA SINGH",
-   "Whatsapp No.": 9984022976,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557042",
+      "NAME": "Madhvendra Vikram Singh",
+      "CLASS": "7",
+      "MOB": "9336410481"
   },
   {
-   "Roll No.": 8021,
-   "Students Name": "ANSH TRIPATHI",
-   "Whatsapp No.": 9936111017,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557043",
+      "NAME": "Manvendra Kumar Pandey",
+      "CLASS": "7",
+      "MOB": "7985968996"
   },
   {
-   "Roll No.": 10562,
-   "Students Name": "ANURAG SINGH",
-   "Whatsapp No.": 9118884443,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557046",
+      "NAME": "Mo. Ujaif",
+      "CLASS": "7",
+      "MOB": "8726033989"
   },
   {
-   "Roll No.": 8921,
-   "Students Name": "ARADHYA PANDEY ",
-   "Whatsapp No.": 8174810883,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557048",
+      "NAME": "Om Mishra",
+      "CLASS": "7",
+      "MOB": "8400532175"
   },
   {
-   "Roll No.": 10682,
-   "Students Name": "ARUSH CHAKRAVARITY",
-   "Whatsapp No.": 8707437875,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557056",
+      "NAME": "Saksham Pratap Singh",
+      "CLASS": "7",
+      "MOB": "8795941780"
   },
   {
-   "Roll No.": 8063,
-   "Students Name": "ATHARV KESARI",
-   "Whatsapp No.": 9793225902,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557062",
+      "NAME": "Shambhavi Upadhyay",
+      "CLASS": "7",
+      "MOB": "7897284926"
   },
   {
-   "Roll No.": 10683,
-   "Students Name": "ATUL YADAV",
-   "Whatsapp No.": 9511428872,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557063",
+      "NAME": "Shanvi Mishra",
+      "CLASS": "7",
+      "MOB": "8840834751"
   },
   {
-   "Roll No.": 8937,
-   "Students Name": "DHAIRYA KASAUDHAN ",
-   "Whatsapp No.": 9795432165,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557064",
+      "NAME": "Shashwat Dubey",
+      "CLASS": "7",
+      "MOB": "9454736534"
   },
   {
-   "Roll No.": 5672,
-   "Students Name": "KAYNAT FATMA",
-   "Whatsapp No.": 9336449046,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557065",
+      "NAME": "Shashwat Singh",
+      "CLASS": "7",
+      "MOB": "9452732033"
   },
   {
-   "Roll No.": 8926,
-   "Students Name": "KHUSHI  YADAV ",
-   "Whatsapp No.": 9794904830,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557068",
+      "NAME": "Shreya Yadav",
+      "CLASS": "7",
+      "MOB": "9452211867"
   },
   {
-   "Roll No.": 8943,
-   "Students Name": "MOHSIN ABBAS",
-   "Whatsapp No.": 7388735887,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557071",
+      "NAME": "Shubh Anugrah Kushwaha",
+      "CLASS": "7",
+      "MOB": "8299451953"
   },
   {
-   "Roll No.": 2134,
-   "Students Name": "NAMAN SRIVASTAVA",
-   "Whatsapp No.": 8765430267,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "557074",
+      "NAME": "Tulika Tiwari",
+      "CLASS": "7",
+      "MOB": "6387357817"
   },
   {
-   "Roll No.": 10561,
-   "Students Name": "PRASHANT SINGH",
-   "Whatsapp No.": 7522066618,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "556070",
+      "NAME": "Vani Kumar",
+      "CLASS": "7",
+      "MOB": "9415020869"
   },
   {
-   "Roll No.": 10675,
-   "Students Name": "RAJVEER SINGH",
-   "Whatsapp No.": 9369883070,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558005",
+      "NAME": "Akshar Yadav",
+      "CLASS": "8",
+      "MOB": "9792292517"
   },
   {
-   "Roll No.": 2119,
-   "Students Name": "RASHI SRIVASTAVA",
-   "Whatsapp No.": 9335609000,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558024",
+      "NAME": "Shikhar Prakash",
+      "CLASS": "8",
+      "MOB": "9026598737"
   },
   {
-   "Roll No.": 5023,
-   "Students Name": "SHAFQUAT SIDDIQUI ",
-   "Whatsapp No.": 9305192612,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558026",
+      "NAME": "Shreeja Singh",
+      "CLASS": "8",
+      "MOB": "9918086283"
   },
   {
-   "Roll No.": 8915,
-   "Students Name": "SHIV KESARWANI ",
-   "Whatsapp No.": 9369046123,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558030",
+      "NAME": "Vibhav Chandra",
+      "CLASS": "8",
+      "MOB": ""
   },
   {
-   "Roll No.": 8925,
-   "Students Name": "SMRITI NAGAR ",
-   "Whatsapp No.": 9415360769,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550003",
+      "NAME": "Avyukt Srivastava",
+      "CLASS": "LKG",
+      "MOB": "7905907404"
   },
   {
-   "Roll No.": 8054,
-   "Students Name": "STUTI MISHRA",
-   "Whatsapp No.": 9129922365,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550006",
+      "NAME": "Fawaz Khan",
+      "CLASS": "LKG",
+      "MOB": "7505827312"
   },
   {
-   "Roll No.": 10658,
-   "Students Name": "SUFIYA SIDDIQUI",
-   "Whatsapp No.": 638616069,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550007",
+      "NAME": "Ishaan Singh",
+      "CLASS": "LKG",
+      "MOB": "6388501452"
   },
   {
-   "Roll No.": 8934,
-   "Students Name": "TANMAY KESHARWANI ",
-   "Whatsapp No.": 8565919912,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550009",
+      "NAME": "Joshua Karketta",
+      "CLASS": "LKG",
+      "MOB": "9648531796"
   },
   {
-   "Roll No.": 2098,
-   "Students Name": "TATHAGAT PRATHAM",
-   "Whatsapp No.": 9793857230,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550010",
+      "NAME": "Kalash Tripathi",
+      "CLASS": "LKG",
+      "MOB": "6392147670"
   },
   {
-   "Roll No.": 8933,
-   "Students Name": "YUVRAJ KESHARWANI ",
-   "Whatsapp No.": 9918807839,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550013",
+      "NAME": "Ritvi Singh",
+      "CLASS": "LKG",
+      "MOB": "9792706656"
   },
   {
-   "Roll No.": 5120,
-   "Students Name": "ALVEENA NAAZ",
-   "Whatsapp No.": 6388696511,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550014",
+      "NAME": "Shivanshika Yadav",
+      "CLASS": "LKG",
+      "MOB": "9730577149"
   },
   {
-   "Roll No.": 8312,
-   "Students Name": "DIVYANSH GUPTA",
-   "Whatsapp No.": 9118419468,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "550016",
+      "NAME": "Vinayak Pandey ",
+      "CLASS": "LKG",
+      "MOB": "9454289161"
   },
   {
-   "Roll No.": 8786,
-   "Students Name": "KRITARTH TIWARI ",
-   "Whatsapp No.": 9936453140,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "559009",
+      "NAME": "Kritvik",
+      "CLASS": "UKG",
+      "MOB": "9455686835"
   },
   {
-   "Roll No.": 10545,
-   "Students Name": "KUNAL SINGH",
-   "Whatsapp No.": 9118884443,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551029",
+      "NAME": "Prapti Bhatnagar ",
+      "CLASS": "UKG",
+      "MOB": "9936150747"
   },
   {
-   "Roll No.": 10557,
-   "Students Name": "NIRJHAR KUMAR ",
-   "Whatsapp No.": 6389441145,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "559011",
+      "NAME": "Sanvee Singh",
+      "CLASS": "UKG",
+      "MOB": "9918993830"
   },
   {
-   "Roll No.": 8315,
-   "Students Name": "SARTHAK SINGH",
-   "Whatsapp No.": 6387318672,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "559015",
+      "NAME": "Swara Singh",
+      "CLASS": "UKG",
+      "MOB": "6392359007"
   },
   {
-   "Roll No.": 8306,
-   "Students Name": "SHILPI MISHRA",
-   "Whatsapp No.": 9569200212,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "559019",
+      "NAME": "Vedanshi Singh Patel ",
+      "CLASS": "UKG",
+      "MOB": "7356117275"
   },
   {
-   "Roll No.": 5704,
-   "Students Name": "SYED AHSAN ABBAS NAQVI",
-   "Whatsapp No.": 7068298171,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551001",
+      "NAME": "Aaditya Upadhyay",
+      "CLASS": "1",
+      "MOB": "7376285343"
   },
   {
-   "Roll No.": 10589,
-   "Students Name": "UTKARSH SINGH",
-   "Whatsapp No.": 6392462900,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551003",
+      "NAME": "Achyut Kumar",
+      "CLASS": "1",
+      "MOB": "7762963314"
   },
   {
-   "Roll No.": 10549,
-   "Students Name": "VIBHOR SRIVASTAVA",
-   "Whatsapp No.": 9140967655,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551005",
+      "NAME": "Aditya Srivastava ",
+      "CLASS": "1",
+      "MOB": "9889408016"
   },
   {
-   "Roll No.": 5477,
-   "Students Name": "ZOYA AZHAR ANSARI",
-   "Whatsapp No.": 9936445583,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551006",
+      "NAME": "Advik Jaiswal",
+      "CLASS": "1",
+      "MOB": "8707658887"
   },
   {
-   "Roll No.": 1182,
-   "Students Name": "ABHAY CHAURASIYA",
-   "Whatsapp No.": 9369156008,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551010",
+      "NAME": "Arham Ahmed",
+      "CLASS": "1",
+      "MOB": "9696451228"
   },
   {
-   "Roll No.": 4055,
-   "Students Name": "ABHISHEK KUMAR",
-   "Whatsapp No.": 7460885200,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551012",
+      "NAME": "Arnav Kumar",
+      "CLASS": "1",
+      "MOB": "7523948139"
   },
   {
-   "Roll No.": 6911,
-   "Students Name": "ADITYA MISHRA",
-   "Whatsapp No.": 6306816650,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551017",
+      "NAME": "Darsh Srivastava",
+      "CLASS": "1",
+      "MOB": "6363388695"
   },
   {
-   "Roll No.": 8008,
-   "Students Name": "ANSH KUSHWAHA",
-   "Whatsapp No.": 8957937219,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551018",
+      "NAME": "Dhaanya Srivastava",
+      "CLASS": "1",
+      "MOB": "9450495513"
   },
   {
-   "Roll No.": 8100,
-   "Students Name": "ATHARV SINGH",
-   "Whatsapp No.": 8299557019,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551021",
+      "NAME": "Haram Fatima ",
+      "CLASS": "1",
+      "MOB": "9559656658"
   },
   {
-   "Roll No.": 5007,
-   "Students Name": "KANEEZ ZAINAB",
-   "Whatsapp No.": 7985340495,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551022",
+      "NAME": "Lovyam Singh",
+      "CLASS": "1",
+      "MOB": "7860037773"
   },
   {
-   "Roll No.": 6861,
-   "Students Name": "MANNAT KUSHWAHA",
-   "Whatsapp No.": 6394183027,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551023",
+      "NAME": "Manushi Mishra",
+      "CLASS": "1",
+      "MOB": "7843987553"
   },
   {
-   "Roll No.": 5037,
-   "Students Name": "SAKINA ABBAS",
-   "Whatsapp No.": 7755818817,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551028",
+      "NAME": "Nishank Singh Patel",
+      "CLASS": "1",
+      "MOB": "7356117275"
   },
   {
-   "Roll No.": 8006,
-   "Students Name": "SHIVANSH MODANWAL",
-   "Whatsapp No.": 9598293101,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551030",
+      "NAME": "Priyam Soni",
+      "CLASS": "1",
+      "MOB": "7388927170"
   },
   {
-   "Roll No.": 8018,
-   "Students Name": "SRISHTI TRIPATHI",
-   "Whatsapp No.": 9936111017,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551031",
+      "NAME": "Rajveer Parth",
+      "CLASS": "1",
+      "MOB": "8381908935"
   },
   {
-   "Roll No.": 8019,
-   "Students Name": "SUHANI YADAV",
-   "Whatsapp No.": 9783085683,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551032",
+      "NAME": "Rudransh Shukla",
+      "CLASS": "1",
+      "MOB": "9654846256"
   },
   {
-   "Roll No.": 6099,
-   "Students Name": "VAIBHAV PRAKASH",
-   "Whatsapp No.": 8957446767,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "551039",
+      "NAME": "Srishti Gusain",
+      "CLASS": "1",
+      "MOB": "9616007972"
   },
   {
-   "Roll No.": 8097,
-   "Students Name": "VARSHA SINGH",
-   "Whatsapp No.": 9026604339,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "552001",
+      "NAME": "Aanya Mishra ",
+      "CLASS": "2",
+      "MOB": "9140406979"
   },
   {
-   "Roll No.": 10694,
-   "Students Name": "YASHASVI KUSHWAHA",
-   "Whatsapp No.": 9369156534,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "552004",
+      "NAME": "Akshit Sinha",
+      "CLASS": "2",
+      "MOB": "8317041710"
   },
   {
-   "Roll No.": 9503,
-   "Students Name": "AVIRAJ SHARMA",
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552006",
+      "NAME": "Anika Pal",
+      "CLASS": "2",
+      "MOB": "8853185178"
   },
   {
-   "Roll No.": 2319,
-   "Students Name": "SHRIYA",
-   "Whatsapp No.": 7232939921,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552008",
+      "NAME": "Aric Srivastava",
+      "CLASS": "2",
+      "MOB": "9140965376"
   },
   {
-   "Roll No.": 8378,
-   "Students Name": "VESHESH DEIVEDI",
-   "Whatsapp No.": 9335035472,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552009",
+      "NAME": "Arnav Pandey",
+      "CLASS": "2",
+      "MOB": "9696311272"
   },
   {
-   "Roll No.": 6100,
-   "Students Name": "RANAK SINGH",
-   "Whatsapp No.": 9198373047,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "552010",
+      "NAME": "Avish Goel ",
+      "CLASS": "2",
+      "MOB": "8004087172"
   },
   {
-   "Roll No.": 2312,
-   "Students Name": "SATYAM SINGH",
-   "Whatsapp No.": 9305599060,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "552018",
+      "NAME": "Kartikey Gupta ",
+      "CLASS": "2",
+      "MOB": "7007987190"
   },
   {
-   "Roll No.": 2287,
-   "Students Name": "RISHIKA",
-   "Whatsapp No.": 9793155706,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "552021",
+      "NAME": "Mehak Singh",
+      "CLASS": "2",
+      "MOB": "8896092780"
   },
   {
-   "Roll No.": 2279,
-   "Students Name": "DIVIT",
-   "Whatsapp No.": 8765945002,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552024",
+      "NAME": "Riddhesh Srivastava",
+      "CLASS": "2",
+      "MOB": "9721095444"
   },
   {
-   "Roll No.": 2043,
-   "Students Name": "AMAAN AHMAD ANSARI",
-   "Whatsapp No.": 9935244890,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552028",
+      "NAME": "Setu Yadav",
+      "CLASS": "2",
+      "MOB": "9431260204"
   },
   {
-   "Roll No.": 2035,
-   "Students Name": "ALI AHMAD ANSARI",
-   "Whatsapp No.": 9935244890,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "552030",
+      "NAME": "Sharvil Singh",
+      "CLASS": "2",
+      "MOB": "8931815450"
   },
   {
-   "Roll No.": 4067,
-   "Students Name": "AARVI SINGH",
-   "Whatsapp No.": 7524019056,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "552032",
+      "NAME": "Swaratmik Tosham Revansh",
+      "CLASS": "2",
+      "MOB": "9140479029"
   },
   {
-   "Roll No.": 9544,
-   "Students Name": "AKSHARA YADAV",
-   "Whatsapp No.": 8736862156,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553001",
+      "NAME": "Aadvik Goel",
+      "CLASS": "3",
+      "MOB": "8004087172"
   },
   {
-   "Roll No.": 10344,
-   "Students Name": "ARADHYA",
-   "Whatsapp No.": 6388093167,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553003",
+      "NAME": "Aditi Asthana",
+      "CLASS": "3",
+      "MOB": "9928074181"
   },
   {
-   "Roll No.": 8599,
-   "Students Name": "ARADHYA YADAV",
-   "Whatsapp No.": 9120577962,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553005",
+      "NAME": "Akshat Kumar",
+      "CLASS": "3",
+      "MOB": "6388723728"
   },
   {
-   "Roll No.": 8087,
-   "Students Name": "AYANSH DWIVEDI",
-   "Whatsapp No.": 6394644546,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553009",
+      "NAME": "Arya Dwivedi",
+      "CLASS": "3",
+      "MOB": "8005156355"
   },
   {
-   "Roll No.": 6290,
-   "Students Name": "HARSH YADAV",
-   "Whatsapp No.": 9112579765,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553011",
+      "NAME": "Bhavik Srivastava",
+      "CLASS": "3",
+      "MOB": "9450909446"
   },
   {
-   "Roll No.": 1203,
-   "Students Name": "ISHANI SAHU",
-   "Whatsapp No.": 8318363826,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553012",
+      "NAME": "Darshika Choudhary",
+      "CLASS": "3",
+      "MOB": "8574832226"
   },
   {
-   "Roll No.": 6083,
-   "Students Name": "KARTIKEY GUPTA",
-   "Whatsapp No.": 7007987190,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553015",
+      "NAME": "Garima Srivastava",
+      "CLASS": "3",
+      "MOB": "9532878006"
   },
   {
-   "Roll No.": 2517,
-   "Students Name": "SATISH KUMAR",
-   "Whatsapp No.": 8957859539,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553019",
+      "NAME": "Pratap Singh ",
+      "CLASS": "3",
+      "MOB": "7668563199"
   },
   {
-   "Roll No.": 8591,
-   "Students Name": "SHAURYA KESHARWANI",
-   "Whatsapp No.": 9555898231,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553021",
+      "NAME": "Rajvi Gupta ",
+      "CLASS": "3",
+      "MOB": "8874048482"
   },
   {
-   "Roll No.": 2025,
-   "Students Name": "SHIHAAN GUPTA",
-   "Whatsapp No.": 9554400010,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553027",
+      "NAME": "Shivansh Srivastava ",
+      "CLASS": "3",
+      "MOB": "9140168691"
   },
   {
-   "Roll No.": 8595,
-   "Students Name": "SHIVA SINGH",
-   "Whatsapp No.": 7499902208,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "553031",
+      "NAME": "Virat Singh Chauhan",
+      "CLASS": "3",
+      "MOB": "8858786171"
   },
   {
-   "Roll No.": 1191,
-   "Students Name": "SHIVAM RAJ",
-   "Whatsapp No.": 9026879158,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554001",
+      "NAME": "Aadvik Srivastava ",
+      "CLASS": "4",
+      "MOB": "8005092455"
   },
   {
-   "Roll No.": 6248,
-   "Students Name": "SUMIT KUSHWAHA",
-   "Whatsapp No.": 7619930624,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554003",
+      "NAME": "Aayansh Shukla",
+      "CLASS": "4",
+      "MOB": "9415267776"
   },
   {
-   "Roll No.": 2162,
-   "Students Name": "ABHIBHAV YADAV",
-   "Whatsapp No.": 9198407448,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554006",
+      "NAME": "Amaan Ahmad Ansari",
+      "CLASS": "4",
+      "MOB": "9935244890"
   },
   {
-   "Roll No.": 6108,
-   "Students Name": "ADITI ASTHANA",
-   "Whatsapp No.": 9928074181,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554007",
+      "NAME": "Anika Dubey",
+      "CLASS": "4",
+      "MOB": "8840109502"
   },
   {
-   "Roll No.": 8852,
-   "Students Name": "AKSHAT SHARMA",
-   "Whatsapp No.": 9935033981,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554011",
+      "NAME": "Aradhya Kumari",
+      "CLASS": "4",
+      "MOB": "9452164046"
   },
   {
-   "Roll No.": 5734,
-   "Students Name": "ALIMA FATIMA",
-   "Whatsapp No.": 7607257858,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554044",
+      "NAME": "Arisha Aziz",
+      "CLASS": "4",
+      "MOB": "9026414616"
   },
   {
-   "Roll No.": 8722,
-   "Students Name": "ARNAV SINGH",
-   "Whatsapp No.": 9935099206,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554012",
+      "NAME": "Arjun Singh",
+      "CLASS": "4",
+      "MOB": "9119637490"
   },
   {
-   "Roll No.": 1264,
-   "Students Name": "ATHARV SRIVASTAVA",
-   "Whatsapp No.": 9696301880,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555015",
+      "NAME": "Arush Singh",
+      "CLASS": "4",
+      "MOB": "8383842074"
   },
   {
-   "Roll No.": 6103,
-   "Students Name": "ATHARVA KUMAR",
-   "Whatsapp No.": 8299895212,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554016",
+      "NAME": "Atharv Mishra ",
+      "CLASS": "4",
+      "MOB": "7985476860"
   },
   {
-   "Roll No.": 8122,
-   "Students Name": "AYANSH PRAJAPATI",
-   "Whatsapp No.": 9616345768,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556042",
+      "NAME": "Kritika Singh ",
+      "CLASS": "4",
+      "MOB": "9580992754"
   },
   {
-   "Roll No.": 6236,
-   "Students Name": "DIVYA YADAV",
-   "Whatsapp No.": 9465579219,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554026",
+      "NAME": "Pranjal Pal",
+      "CLASS": "4",
+      "MOB": "7800569774"
   },
   {
-   "Roll No.": 1291,
-   "Students Name": "GAURAV BAJPAI",
-   "Whatsapp No.": 9894635994,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554027",
+      "NAME": "Reyansh Vishwkarma ",
+      "CLASS": "4",
+      "MOB": "8687547209"
   },
   {
-   "Roll No.": 8210,
-   "Students Name": "ISHANI YADAV",
-   "Whatsapp No.": 9795717299,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554034",
+      "NAME": "Shreeyam Dwivadi ",
+      "CLASS": "4",
+      "MOB": "8787298582"
   },
   {
-   "Roll No.": 8131,
-   "Students Name": "KAUSHAL SAXENA",
-   "Whatsapp No.": 9695192683,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554037",
+      "NAME": "Takshvi Srivastava",
+      "CLASS": "4",
+      "MOB": "8299437653"
   },
   {
-   "Roll No.": 8725,
-   "Students Name": "LUCKY YADAV",
-   "Whatsapp No.": 8924871650,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "554039",
+      "NAME": "Vishal Singh Chauhan ",
+      "CLASS": "4",
+      "MOB": "8528358464"
   },
   {
-   "Roll No.": 8875,
-   "Students Name": "NAVIKA RAI",
-   "Whatsapp No.": 6394877671,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555005",
+      "NAME": "Abhinab Sahoo",
+      "CLASS": "5",
+      "MOB": "7209172905"
   },
   {
-   "Roll No.": 8133,
-   "Students Name": "NISHI SINGH",
-   "Whatsapp No.": 9936677011,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555013",
+      "NAME": "Aradhya Tripathi ",
+      "CLASS": "5",
+      "MOB": "9450608979"
   },
   {
-   "Roll No.": 8136,
-   "Students Name": "PARI MAURYA",
-   "Whatsapp No.": 9335154682,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555020",
+      "NAME": "Kshitiz",
+      "CLASS": "5",
+      "MOB": "9455686835"
   },
   {
-   "Roll No.": 1147,
-   "Students Name": "RIDHIMA ARYA",
-   "Whatsapp No.": 9935867352,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555027",
+      "NAME": "Ojaswita Singh",
+      "CLASS": "5",
+      "MOB": "9532850385"
   },
   {
-   "Roll No.": 8141,
-   "Students Name": "RUDRA MISHRA",
-   "Whatsapp No.": 9956189752,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555028",
+      "NAME": "Om Pandey ",
+      "CLASS": "5",
+      "MOB": "7398508528"
   },
   {
-   "Roll No.": 7207,
-   "Students Name": "S. HUSSAIN ABBAS RIZVI ",
-   "Whatsapp No.": 9820818586,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555030",
+      "NAME": "Pratyusha Goswami",
+      "CLASS": "5",
+      "MOB": "9415310910"
   },
   {
-   "Roll No.": 2275,
-   "Students Name": "SHIVAAY DIXIT",
-   "Whatsapp No.": 9198945175,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556056",
+      "NAME": "Shrivats Agarwal",
+      "CLASS": "5",
+      "MOB": "9336841792"
   },
   {
-   "Roll No.": 8146,
-   "Students Name": "SIDDHARATHA TRIPATHI",
-   "Whatsapp No.": 7307216280,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "555044",
+      "NAME": "Swastik Singh",
+      "CLASS": "5",
+      "MOB": "7651898847"
   },
   {
-   "Roll No.": 8874,
-   "Students Name": "SMERA MISHRA",
-   "Whatsapp No.": 9005637612,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556001",
+      "NAME": "Aahan Srivastava",
+      "CLASS": "6",
+      "MOB": "8887689453"
   },
   {
-   "Roll No.": 8881,
-   "Students Name": "SOUBHAGYA SINGH",
-   "Whatsapp No.": 8957806380,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556011",
+      "NAME": "Anjali Rai",
+      "CLASS": "6",
+      "MOB": ""
   },
   {
-   "Roll No.": 1263,
-   "Students Name": "SUDHANSHU ARYA",
-   "Whatsapp No.": 6306974501,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556015",
+      "NAME": "Aradhya Shukla",
+      "CLASS": "6",
+      "MOB": "9369123770"
   },
   {
-   "Roll No.": 8150,
-   "Students Name": "TRISHA KESHARWANI",
-   "Whatsapp No.": 9005500498,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556018",
+      "NAME": "Arnav Ojha",
+      "CLASS": "6",
+      "MOB": "9454696566"
   },
   {
-   "Roll No.": 7206,
-   "Students Name": "ZAIN ABBAS RIZVI",
-   "Whatsapp No.": 9820818586,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556023",
+      "NAME": "Atharv Kesharwani",
+      "CLASS": "6",
+      "MOB": "8787070903"
   },
   {
-   "Roll No.": 7213,
-   "Students Name": "ZAINAB FATIMA ",
-   "Whatsapp No.": 8707459006,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556024",
+      "NAME": "Atharv Singh",
+      "CLASS": "6",
+      "MOB": "9451222472"
   },
   {
-   "Roll No.": 7209,
-   "Students Name": "ZAINUL ABIDEEN ",
-   "Whatsapp No.": 7309190929,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556025",
+      "NAME": "Atharv Singh ",
+      "CLASS": "6",
+      "MOB": "9452875597"
   },
   {
-   "Roll No.": 2103,
-   "Students Name": "AADVIK SRIVASTAVA",
-   "Whatsapp No.": 8005349191,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556031",
+      "NAME": "Divya Kumar Singh",
+      "CLASS": "6",
+      "MOB": "9161437697"
   },
   {
-   "Roll No.": 5420,
-   "Students Name": "AAIMA ASAD",
-   "Whatsapp No.": 9936644793,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556043",
+      "NAME": "Manasi Gautam",
+      "CLASS": "6",
+      "MOB": "7905880770"
   },
   {
-   "Roll No.": 10223,
-   "Students Name": "AHMAD AMMAR",
-   "Whatsapp No.": 9696051902,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556049",
+      "NAME": "Palak Agarwal ",
+      "CLASS": "6",
+      "MOB": "9936028000"
   },
   {
-   "Roll No.": 5260,
-   "Students Name": "AKSA RIZVI",
-   "Whatsapp No.": 7619980939,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556050",
+      "NAME": "Parth Yadav",
+      "CLASS": "6",
+      "MOB": "9682870011"
   },
   {
-   "Roll No.": 8760,
-   "Students Name": "ANANY SINGH",
-   "Whatsapp No.": 8795829420,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556060",
+      "NAME": "Shresth Srivastava ",
+      "CLASS": "6",
+      "MOB": "9838879447"
   },
   {
-   "Roll No.": 8749,
-   "Students Name": "ANSHUL",
-   "Whatsapp No.": 8756778386,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "556074",
+      "NAME": "Yasharth Singh",
+      "CLASS": "6",
+      "MOB": "6393565255"
   },
   {
-   "Roll No.": 10321,
-   "Students Name": "ANURAG SINGH",
-   "Whatsapp No.": 9807947969,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557006",
+      "NAME": "Adhrit Asthana ",
+      "CLASS": "7",
+      "MOB": "8222999004"
   },
   {
-   "Roll No.": 5915,
-   "Students Name": "AQUSHA NAZ KHAN",
-   "Whatsapp No.": 9125060524,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557015",
+      "NAME": "Ansh Kesharwani",
+      "CLASS": "7",
+      "MOB": "7080345821"
   },
   {
-   "Roll No.": 1052,
-   "Students Name": "AYAT AFZAL",
-   "Whatsapp No.": 8172884966,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557019",
+      "NAME": "Aradhya Maurya ",
+      "CLASS": "7",
+      "MOB": "9935746977"
   },
   {
-   "Roll No.": 5829,
-   "Students Name": "FAREHA KAZMI",
-   "Whatsapp No.": 9919073368,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557045",
+      "NAME": "Mehrunnisa",
+      "CLASS": "7",
+      "MOB": "8318522844"
   },
   {
-   "Roll No.": 5398,
-   "Students Name": "HASHAM ABBAS",
-   "Whatsapp No.": 8887970107,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557051",
+      "NAME": "Praneel Tripathi",
+      "CLASS": "7",
+      "MOB": "7763807782"
   },
   {
-   "Roll No.": 10244,
-   "Students Name": "PIHU SONI",
-   "Whatsapp No.": 9616875506,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557057",
+      "NAME": "Samriddhi",
+      "CLASS": "7",
+      "MOB": "9972169049"
   },
   {
-   "Roll No.": 2294,
-   "Students Name": "REYANSH VISHWKARMA",
-   "Whatsapp No.": 8687547209,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557061",
+      "NAME": "Saumya Singh",
+      "CLASS": "7",
+      "MOB": "8707808285"
   },
   {
-   "Roll No.": 2156,
-   "Students Name": "RITURAJ SINGH",
-   "Whatsapp No.": 9616171592,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "557067",
+      "NAME": "Shlok Pandey",
+      "CLASS": "7",
+      "MOB": "6392550236"
   },
   {
-   "Roll No.": 2527,
-   "Students Name": "SACHI RAI",
-   "Whatsapp No.": 7985441744,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558008",
+      "NAME": "Animesh Singh",
+      "CLASS": "8",
+      "MOB": "6386396722"
   },
   {
-   "Roll No.": 10218,
-   "Students Name": "SHANTANU SHUKLA",
-   "Whatsapp No.": 9125876774,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558009",
+      "NAME": "Aradhya Shukia",
+      "CLASS": "8",
+      "MOB": "9415267776"
   },
   {
-   "Roll No.": 10222,
-   "Students Name": "SHASHWAT YADAV",
-   "Whatsapp No.": 8840830370,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558011",
+      "NAME": "Arnav Singh",
+      "CLASS": "8",
+      "MOB": "6386902238"
   },
   {
-   "Roll No.": 8252,
-   "Students Name": "SWASTIKA YADAV",
-   "Whatsapp No.": 9839485387,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558012",
+      "NAME": "Arush Tripathi",
+      "CLASS": "8",
+      "MOB": "8303435906"
   },
   {
-   "Roll No.": 2169,
-   "Students Name": "VIVAN SRIVASTAVA",
-   "Whatsapp No.": 8299270463,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558003",
+      "NAME": "Avinav Gupta",
+      "CLASS": "8",
+      "MOB": "7007119455"
   },
   {
-   "Roll No.": 5860,
-   "Students Name": "ZEHANAT FATIMA",
-   "Whatsapp No.": 8419002454,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "558018",
+      "NAME": "Kaustubh Mishra",
+      "CLASS": "8",
+      "MOB": "8840193889"
   },
   {
-   "Roll No.": 2314,
-   "Students Name": "AARUSH AGRAWAL",
-   "Whatsapp No.": 9415018742,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558019",
+      "NAME": "Khyati Khanna ",
+      "CLASS": "8",
+      "MOB": "9473956908"
   },
   {
-   "Roll No.": 8171,
-   "Students Name": "ABHINAV YADAV",
-   "Whatsapp No.": 6390519862,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558020",
+      "NAME": "Kristi Tripathi",
+      "CLASS": "8",
+      "MOB": "9598375390"
   },
   {
-   "Roll No.": 10366,
-   "Students Name": "AGAM SINGH",
-   "Whatsapp No.": 9696088810,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "558023",
+      "NAME": "Shagun Singh",
+      "CLASS": "8",
+      "MOB": "9119637490"
   },
   {
-   "Roll No.": 10336,
-   "Students Name": "AISHWARY SINGH",
-   "Whatsapp No.": 9335252265,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "902101",
+      "NAME": "Chirag Gupta ",
+      "CLASS": "1",
+      "MOB": "9415330777"
   },
   {
-   "Roll No.": 5092,
-   "Students Name": "ALISHBA ZAHRA",
-   "Whatsapp No.": 9554587205,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903374",
+      "NAME": "Shrikant Tripathi",
+      "CLASS": "1",
+      "MOB": "9455503577"
   },
   {
-   "Roll No.": 2053,
-   "Students Name": "ANAM IKRAM",
-   "Whatsapp No.": 9839978677,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "901683",
+      "NAME": "Akshara Yadav ",
+      "CLASS": "2",
+      "MOB": "8736862156"
   },
   {
-   "Roll No.": 1053,
-   "Students Name": "ANSH MISHRA",
-   "Whatsapp No.": 9532237606,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900244",
+      "NAME": "Avyay Maurya",
+      "CLASS": "2",
+      "MOB": "9935746977"
   },
   {
-   "Roll No.": 2163,
-   "Students Name": "ANVI YADAV",
-   "Whatsapp No.": 9198407448,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900831",
+      "NAME": "Alina farooqui",
+      "CLASS": "3",
+      "MOB": "7897203440"
   },
   {
-   "Roll No.": 8609,
-   "Students Name": "DAKSH MISHRA ",
-   "Whatsapp No.": 9307778456,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "902000",
+      "NAME": "ATHARVA KUMAR. ",
+      "CLASS": "3",
+      "MOB": "7525001332"
   },
   {
-   "Roll No.": 2303,
-   "Students Name": "HARDIK KESARWANI",
-   "Whatsapp No.": 6388417064,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903372",
+      "NAME": "Sukriti Tripathi ",
+      "CLASS": "3",
+      "MOB": "9794834113"
   },
   {
-   "Roll No.": 8189,
-   "Students Name": "KIRTI YADAV",
-   "Whatsapp No.": 7490821668,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903565",
+      "NAME": "Anany singh",
+      "CLASS": "4",
+      "MOB": "9838744635"
   },
   {
-   "Roll No.": 8180,
-   "Students Name": "MRITUNJAY YADAV ",
-   "Whatsapp No.": 991813131,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900839",
+      "NAME": "Anshul ",
+      "CLASS": "4",
+      "MOB": "9236367846"
   },
   {
-   "Roll No.": 4600,
-   "Students Name": "NAVYA RAI",
-   "Whatsapp No.": 9450436119,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903005",
+      "NAME": "Aviral Shukla ",
+      "CLASS": "4",
+      "MOB": "9415859249"
   },
   {
-   "Roll No.": 2906,
-   "Students Name": "PRATYUSHA GOSWAMI",
-   "Whatsapp No.": 9415310910,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903251",
+      "NAME": "SHREEYAM DWIVEDI",
+      "CLASS": "4",
+      "MOB": "8887737634"
   },
   {
-   "Roll No.": 10126,
-   "Students Name": "PRIYANSHI SINGH",
-   "Whatsapp No.": 9956842231,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903286",
+      "NAME": "TRISHAAR YUVRAJ SONKAR ",
+      "CLASS": "6",
+      "MOB": "9335143095"
   },
   {
-   "Roll No.": 10123,
-   "Students Name": "SHIVAM KUMAR",
-   "Whatsapp No.": 7318331948,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "901197",
+      "NAME": "KARTIKEYA SINGH ",
+      "CLASS": "7",
+      "MOB": "9984080022"
   },
   {
-   "Roll No.": 8620,
-   "Students Name": "SHLOK KUSHWAHA",
-   "Whatsapp No.": 9936749570,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "902123",
+      "NAME": "Waniya Mishkat ",
+      "CLASS": "7",
+      "MOB": "7007651372"
   },
   {
-   "Roll No.": 10364,
-   "Students Name": "UDIT PRAJAPATI",
-   "Whatsapp No.": 9140947418,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900709",
+      "NAME": "Ranak Singh ",
+      "CLASS": "5",
+      "MOB": "9198373047"
   },
   {
-   "Roll No.": 8179,
-   "Students Name": "VASHISTH SINGH",
-   "Whatsapp No.": 6300678679,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903426",
+      "NAME": "Prerit Kapoor jaiswal",
+      "CLASS": "1",
+      "MOB": "7905261780"
   },
   {
-   "Roll No.": 8174,
-   "Students Name": "VINAYAK YADAV",
-   "Whatsapp No.": 7421390108,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903247",
+      "NAME": "RAJVEER PARTH",
+      "CLASS": "1",
+      "MOB": "6394140806"
   },
   {
-   "Roll No.": 5207,
-   "Students Name": "WASEELA ZAINAB",
-   "Whatsapp No.": 8887970107,
-   "Present Class": 4,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903376",
+      "NAME": "Riddhimaan Vardhan ",
+      "CLASS": "1",
+      "MOB": "9415111318"
   },
   {
-   "Roll No.": 10003,
-   "Students Name": "ABHINAV SINGH",
-   "Whatsapp No.": 8840718237,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900801",
+      "NAME": "Divit",
+      "CLASS": "2",
+      "MOB": "8765945002"
   },
   {
-   "Roll No.": 10030,
-   "Students Name": "ADARSH KUMAR",
-   "Whatsapp No.": 9559607051,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "901338",
+      "NAME": "Aarohi Shukla",
+      "CLASS": "3",
+      "MOB": "8574300374"
   },
   {
-   "Roll No.": 8845,
-   "Students Name": "ANAD BANO",
-   "Whatsapp No.": 8707239193,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903077",
+      "NAME": "ASHRAV TRIPATHI",
+      "CLASS": "3",
+      "MOB": "7080127722"
   },
   {
-   "Roll No.": 9078,
-   "Students Name": "ANIKET SINGH",
-   "Whatsapp No.": 6392145027,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "901858",
+      "NAME": "BHAVYA SINGH",
+      "CLASS": "3",
+      "MOB": "9415644392"
   },
   {
-   "Roll No.": 2193,
-   "Students Name": "ARADHYA SRIVASTAVA",
-   "Whatsapp No.": 8948083874,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900802",
+      "NAME": "PRATAP SINGH ",
+      "CLASS": "3",
+      "MOB": "9653033717"
   },
   {
-   "Roll No.": 10109,
-   "Students Name": "ARPIT NANDAN",
-   "Whatsapp No.": 9794866401,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900790",
+      "NAME": "Vihaan Om",
+      "CLASS": "3",
+      "MOB": "9451106876"
   },
   {
-   "Roll No.": 7071,
-   "Students Name": "ARSHITA TIWARI",
-   "Whatsapp No.": 9621553512,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "901585",
+      "NAME": "SHRIVATS AGARWAL",
+      "CLASS": "5",
+      "MOB": "9336852012"
   },
   {
-   "Roll No.": 5370,
-   "Students Name": "FAHIM ASGAR",
-   "Whatsapp No.": 9198085622,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900699",
+      "NAME": "Sanvi Sinha",
+      "CLASS": "6",
+      "MOB": "9721416181"
   },
   {
-   "Roll No.": 2789,
-   "Students Name": "PRADNYA SRIVASTAVA",
-   "Whatsapp No.": 9044338878,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903093",
+      "NAME": "KHYATI KHANNA.",
+      "CLASS": "8",
+      "MOB": "9473956908"
   },
   {
-   "Roll No.": 8886,
-   "Students Name": "PRIYANSHI SHARMA",
-   "Whatsapp No.": 8318464897,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "902021",
+      "NAME": "SUVIGYA MEHROTRA",
+      "CLASS": "8",
+      "MOB": "7905945402"
   },
   {
-   "Roll No.": 2786,
-   "Students Name": "SAIAANISH HASIJA",
-   "Whatsapp No.": 8953806050,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903373",
+      "NAME": "Rishit Saxena ",
+      "CLASS": "1",
+      "MOB": "9935136652"
   },
   {
-   "Roll No.": 10078,
-   "Students Name": "SHASHWAT TIWARI ",
-   "Whatsapp No.": 9795077294,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "901447",
+      "NAME": "Reyansh vishwakarma ",
+      "CLASS": "4",
+      "MOB": "8687547209"
   },
   {
-   "Roll No.": 8196,
-   "Students Name": "SHIFAT KHAN",
-   "Whatsapp No.": 6306713284,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "900775",
+      "NAME": "PRATYUSHA GOSWAMI",
+      "CLASS": "5",
+      "MOB": "9415310910"
   },
   {
-   "Roll No.": 8910,
-   "Students Name": "SHIKHAR PATHAK",
-   "Whatsapp No.": 6387152174,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "902068",
+      "NAME": "Kartik singhal",
+      "CLASS": "6",
+      "MOB": "8303063104"
   },
   {
-   "Roll No.": 2837,
-   "Students Name": "SHRUTI KIRTI",
-   "Whatsapp No.": 9889691572,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "902029",
+      "NAME": "SAURISH SAHU",
+      "CLASS": "6",
+      "MOB": "9598763425"
   },
   {
-   "Roll No.": 10049,
-   "Students Name": "SONALI KUMARI",
-   "Whatsapp No.": 9140438477,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
+      "HT": "903354",
+      "NAME": "Yasharth Singh",
+      "CLASS": "6",
+      "MOB": "6394131637"
   },
   {
-   "Roll No.": 5201,
-   "Students Name": "UMRA AKHTAR",
-   "Whatsapp No.": 9580059433,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2316,
-   "Students Name": "YASHI RAI",
-   "Whatsapp No.": 7985441744,
-   "Present Class": 5,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 5448,
-   "Students Name": "AABISH OBAID",
-   "Whatsapp No.": 8299530369,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10651,
-   "Students Name": "AAROHI MISHRA ",
-   "Whatsapp No.": 9450619262,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10642,
-   "Students Name": "ABHINAV SINGH",
-   "Whatsapp No.": 9140146215,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10640,
-   "Students Name": "AGRIMA GUPTA",
-   "Whatsapp No.": 7007713088,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 5434,
-   "Students Name": "ALISHBA AQSA ANSARI",
-   "Whatsapp No.": 9451547053,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10611,
-   "Students Name": "ANUSHKA SHARMA",
-   "Whatsapp No.": 8264960246,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8935,
-   "Students Name": "ARSH MAURYA ",
-   "Whatsapp No.": 9415500800,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10652,
-   "Students Name": "ARTIKA KUMARI",
-   "Whatsapp No.": 7458078481,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10643,
-   "Students Name": "ASHVIKA SINGH",
-   "Whatsapp No.": 6307033151,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10610,
-   "Students Name": "AVIKA YADAV",
-   "Whatsapp No.": 9125040694,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10650,
-   "Students Name": "AYUSH SINGH",
-   "Whatsapp No.": 7007927601,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 9526,
-   "Students Name": "HARSH GUPTA",
-   "Whatsapp No.": 7379893583,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10660,
-   "Students Name": "JAGRITI SINGH",
-   "Whatsapp No.": 6307585538,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2045,
-   "Students Name": "JIGYANSH VASHISHTHA",
-   "Whatsapp No.": 9415360794,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10568,
-   "Students Name": "KARTAVYA PRAJAPATI",
-   "Whatsapp No.": 8299137060,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10686,
-   "Students Name": "KETAN AHUJA",
-   "Whatsapp No.": 9889216699,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10603,
-   "Students Name": "KRITAGYA PRAJAPATI",
-   "Whatsapp No.": 8299137060,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10662,
-   "Students Name": "KUMARI PRATIGYA ",
-   "Whatsapp No.": 7739924140,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2760,
-   "Students Name": "MOHAMMAD ABDULLAH",
-   "Whatsapp No.": 9415366162,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10676,
-   "Students Name": "PAWNI MISHRA",
-   "Whatsapp No.": 8960461151,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10564,
-   "Students Name": "PRANITI SRIVASTAVA",
-   "Whatsapp No.": 9839811237,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2487,
-   "Students Name": "SAKSHI YADAV",
-   "Whatsapp No.": 7388285286,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10641,
-   "Students Name": "SHAURYA PRATAP SINGH",
-   "Whatsapp No.": 7905169929,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10601,
-   "Students Name": "SHREYA PANDEY",
-   "Whatsapp No.": 9452709406,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10563,
-   "Students Name": "SIDDHI SINGH",
-   "Whatsapp No.": 6392462900,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 1009,
-   "Students Name": "YASHITA KUSHWAHA ",
-   "Whatsapp No.": 9415630958,
-   "Present Class": 6,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10540,
-   "Students Name": "AASTHA SINGH",
-   "Whatsapp No.": 9140146215,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2191,
-   "Students Name": "ANUMEHA SRIVASTAVA",
-   "Whatsapp No.": 7704914027,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8023,
-   "Students Name": "ANURADHA SAHU",
-   "Whatsapp No.": 7518593087,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 6910,
-   "Students Name": "ARYAN MISHRA",
-   "Whatsapp No.": 6306816650,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10547,
-   "Students Name": "KARAN SINGH BAGRI",
-   "Whatsapp No.": 6393223206,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10550,
-   "Students Name": "MAHARSH YADAV ",
-   "Whatsapp No.": 95594316777,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 5701,
-   "Students Name": "MOHAMMAD MUJTABA",
-   "Whatsapp No.": 9198085622,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10612,
-   "Students Name": "NANDINEE",
-   "Whatsapp No.": 8960300729,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8321,
-   "Students Name": "NIVEDITA GOSWAMI",
-   "Whatsapp No.": 8115269426,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8316,
-   "Students Name": "PALLAVI YADAV",
-   "Whatsapp No.": 7007647494,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10556,
-   "Students Name": "SAKSHAM SINGH",
-   "Whatsapp No.": 8299343646,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8796,
-   "Students Name": "SAURABH SINGH",
-   "Whatsapp No.": 9956774890,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8309,
-   "Students Name": "SHAGUN MISHRA",
-   "Whatsapp No.": 7355520248,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10554,
-   "Students Name": "SUSHANT SHARMA ",
-   "Whatsapp No.": 9305195902,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 5401,
-   "Students Name": "TAHREEM AFRA",
-   "Whatsapp No.": 8887630333,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8713,
-   "Students Name": "VAIDIK SWARNKAR ",
-   "Whatsapp No.": 9839473697,
-   "Present Class": 7,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2497,
-   "Students Name": "ANSH KUSHWAHA",
-   "Whatsapp No.": 9559452837,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8034,
-   "Students Name": "DIVYANSH SHUKLA",
-   "Whatsapp No.": 9580840974,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8013,
-   "Students Name": "ISLOK MISHRA",
-   "Whatsapp No.": 9569676745,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 5005,
-   "Students Name": "KAHKASHA FATIMA",
-   "Whatsapp No.": 8081171824,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 5006,
-   "Students Name": "KESA FATMA",
-   "Whatsapp No.": 9555443560,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8022,
-   "Students Name": "MANAS YADUVANSHI",
-   "Whatsapp No.": 7839773312,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8014,
-   "Students Name": "NITISH MISHRA",
-   "Whatsapp No.": 9569200212,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10692,
-   "Students Name": "PRATIK SINGH ",
-   "Whatsapp No.": 9555505465,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8009,
-   "Students Name": "PRATYUSH YADAV",
-   "Whatsapp No.": 7007647494,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8428,
-   "Students Name": "RIDDHIMA YADAV",
-   "Whatsapp No.": 9305020911,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2522,
-   "Students Name": "SARTHAK SIDANA",
-   "Whatsapp No.": 9140189907,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2024,
-   "Students Name": "SAYSHA GUPTA",
-   "Whatsapp No.": 9936520107,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 8005,
-   "Students Name": "SHIVANK SINGH",
-   "Whatsapp No.": 8840894983,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10689,
-   "Students Name": "SWARIT SRIVASTAVA",
-   "Whatsapp No.": 7355981242,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 10687,
-   "Students Name": "TANUSHRI MAURYA",
-   "Whatsapp No.": 9305692317,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 6400,
-   "Students Name": "VEDANT MISHRA",
-   "Whatsapp No.": 9161002099,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 2297,
-   "Students Name": "YASHI SINGH",
-   "Whatsapp No.": 6393565255,
-   "Present Class": 8,
-   "Time": "2.30 PM to 5 PM"
-  },
-  {
-   "Roll No.": 9517,
-   "Students Name": "AARADHYA TIWARI",
-   "Whatsapp No.": 9415605881,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8390,
-   "Students Name": "ANMOL SINGH",
-   "Whatsapp No.": 9335873871,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 9518,
-   "Students Name": "ATHARV RATHOUR",
-   "Whatsapp No.": 9839607409,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 9506,
-   "Students Name": "AVI YADAV",
-   "Whatsapp No.": 9452323056,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2550,
-   "Students Name": "AVNI SINGH",
-   "Whatsapp No.": 9455470503,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2318,
-   "Students Name": "KRITVIK SINGH",
-   "Whatsapp No.": 9455686835,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8351,
-   "Students Name": "PRANJAL KUSHWAHA",
-   "Whatsapp No.": 9120566049,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2284,
-   "Students Name": "RAJVEER PARTH",
-   "Whatsapp No.": 6394140806,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8445,
-   "Students Name": "SWASTIKA YADAV",
-   "Whatsapp No.": 9919153773,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 9513,
-   "Students Name": "UMAR AFTAB",
-   "Whatsapp No.": 8423322685,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8358,
-   "Students Name": "VANISHKA DWIVEDI ",
-   "Whatsapp No.": 9335035472,
-   "Present Class": "LKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8811,
-   "Students Name": "AHMADI FATIMA",
-   "Whatsapp No.": 8564908144,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 9546,
-   "Students Name": "ATITHI OJHA",
-   "Whatsapp No.": 9935105691,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 9545,
-   "Students Name": "AVIRAJ CHAUHAN",
-   "Whatsapp No.": 7275820491,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2520,
-   "Students Name": "KAVYA YADAV",
-   "Whatsapp No.": 8009356796,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8813,
-   "Students Name": "KAVYANSH YADAV",
-   "Whatsapp No.": 9030486916,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2333,
-   "Students Name": "KUMARI MAYANK",
-   "Whatsapp No.": 8601919901,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2192,
-   "Students Name": "MILIT SRIVASTAVA",
-   "Whatsapp No.": 8874119384,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2802,
-   "Students Name": "PRAPTI BHATNAGAR",
-   "Whatsapp No.": 9936150747,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8711,
-   "Students Name": "RISHAB SINGH ",
-   "Whatsapp No.": 9005127863,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8816,
-   "Students Name": "SHEJAL SINGH",
-   "Whatsapp No.": 9670664133,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 2315,
-   "Students Name": "SHRISTI GUSAIN",
-   "Whatsapp No.": 9675893866,
-   "Present Class": "UKG",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8815,
-   "Students Name": "SHUBH TIWARI ",
-   "Whatsapp No.": 8417064490,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8814,
-   "Students Name": "SHUBHI TIWARI",
-   "Whatsapp No.": 8417064490,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 8712,
-   "Students Name": "YASHSWI KUSHWAHA ",
-   "Whatsapp No.": 7755822788,
-   "Present Class": "PREP",
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 100329,
-   "Students Name": "SOUMYA PANDEY",
-   "Whatsapp No.": 9871555192,
-   "Present Class": 1,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 104266,
-   "Students Name": "PRATAP SINGH",
-   "Whatsapp No.": 9653033717,
-   "Present Class": 2,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 104046,
-   "Students Name": "AYUSH YADAV ",
-   "Whatsapp No.": 9198306837,
-   "Present Class": 3,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 100277,
-   "Students Name": "SAKSHAM PANDEY",
-   "Whatsapp No.": 9871555192,
-   "Present Class": 5,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 101636,
-   "Students Name": "SUVIGYA MEHROTRA ",
-   "Whatsapp No.": 7905945402,
-   "Present Class": 7,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 100498,
-   "Students Name": "KANISHKA SINGH",
-   "Whatsapp No.": 8303132074,
-   "Present Class": 5,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 101638,
-   "Students Name": "KARTIK SINGHAL",
-   "Whatsapp No.": 8303063104,
-   "Present Class": 5,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 104958,
-   "Students Name": "ANIKET KUMAR",
-   "Whatsapp No.": 9129041326,
-   "Present Class": 5,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 100419,
-   "Students Name": "ARADHYA MAURYA",
-   "Whatsapp No.": 9935746977,
-   "Present Class": 6,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 105353,
-   "Students Name": "VIVSHWAN MISHRA",
-   "Whatsapp No.": 9555270621,
-   "Present Class": 7,
-   "Time": "11.30 AM to 2 PM"
-  },
-  {
-   "Roll No.": 101590,
-   "Students Name": "MOHD AYAN",
-   "Whatsapp No.": 9120476170,
-   "Present Class": 6,
-   "Time": "11.30 AM to 2 PM"
+      "HT": "903431",
+      "NAME": "Saksham Pratap Singh.",
+      "CLASS": "7",
+      "MOB": "9919827697"
   }
- ]
+]
